@@ -22,25 +22,20 @@ AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
 HEDEFLER = [
     dict(id="kfe-ist", scope="istanbul", title="İstanbul konut fiyat endeksi", unit="endeks",
          grup=["konut fiyat endeksi"], grup_degil=["yeni konut", "birim", "hedonik", "sorgu"],
-         seri=[["istanbul"]], kaynak="TCMB"),
+         seri=[["istanbul"]], kaynak="TCMB", yedek_kod="TP.KFE.TR10"),
     dict(id="kfe-tr", scope="turkiye", title="Türkiye konut fiyat endeksi", unit="endeks",
-         grup=["konut fiyat endeksi"], grup_degil=["yeni konut", "birim", "hedonik", "sorgu"],
-         seri=[["türkiye"]], kaynak="TCMB"),
+         kod="TP.KFE.TR", kaynak="TCMB"),
     dict(id="ykke-ist", scope="istanbul", title="İstanbul yeni kiracı kira endeksi", unit="endeks",
          grup=["kira"], grup_degil=["hizmet", "tüfe", "tufe"],
-         seri=[["istanbul"]], kaynak="TCMB"),
+         seri=[["istanbul"]], kaynak="TCMB", yedek_kod="TP.YKKE.TR10"),
     dict(id="ykke-tr", scope="turkiye", title="Türkiye yeni kiracı kira endeksi", unit="endeks",
-         grup=["kira"], grup_degil=["hizmet", "tüfe", "tufe"],
-         seri=[["türkiye"]], kaynak="TCMB"),
+         kod="TP.YKKE.TR", kaynak="TCMB"),
     dict(id="satis-ist", scope="istanbul", title="İstanbul konut satışları", unit="adet",
-         grup=["konut satış"], grup_degil=["yabancı", "ilk", "ikinci", "ipotek"],
-         seri=[["istanbul"]], kaynak="TÜİK (EVDS)"),
+         grup=["konut", "satış"], grup_degil=["ikinci", "ilk el", "ipotek", "yabancı", "diğer"],
+         seri=[["istanbul", "konut"]], kaynak="TÜİK (EVDS)", yedek_kod="TP.AKONUTSAT1.KTR100"),
     dict(id="satis-tr", scope="turkiye", title="Türkiye konut satışları", unit="adet",
-         grup=["konut satış"], grup_degil=["yabancı", "ilk", "ikinci", "ipotek"],
-         seri=[["türkiye", "toplam"], ["toplam"], ["türkiye"]], kaynak="TÜİK (EVDS)"),
-    dict(id="tufe-tr", scope="turkiye", title="TÜFE yıllık değişim", unit="%",
-         grup=["tüketici fiyat"], grup_degil=["özel", "çekirdek", "hizmet"],
-         seri=[["genel"]], kaynak="TÜİK (EVDS)", formul="3", yedek_kod="TP.FG.J0"),
+         grup=["konut", "satış"], grup_degil=["ikinci", "ilk el", "ipotek", "yabancı", "diğer"],
+         seri=[["türkiye", "konut"]], kaynak="TÜİK (EVDS)", yedek_kod="TP.AKONUTSAT1.KTRTOPLAM"),
 ]
 
 
@@ -68,6 +63,8 @@ def seriler(grup_kodu):
 
 
 def bul(hedef, tum_gruplar):
+    if hedef.get("kod"):
+        return hedef["kod"], "(sabit kod)", hedef["kod"]
     for g in tum_gruplar:
         ad = kucuk(g.get("DATAGROUP_NAME"))
         if all(k in ad for k in hedef["grup"]) and not any(k in ad for k in hedef["grup_degil"]):
@@ -179,6 +176,9 @@ def main():
             kod, grup, sad = b
             p = veri(kod, h.get("formul", ""))
             print(f"+ {h['id']}: {kod} ({grup} / {sad}) · {len(p)} nokta · son {p[-1]['period'] if p else '-'}")
+            if p and p[-1]["period"] < f"{date.today().year - 1:04d}-{date.today().month:02d}":
+                print(f"  {h['id']}: seri güncel değil (son {p[-1]['period']}), atlandı")
+                p = []
             if len(p) < 3:
                 if h["id"] in eski: yeni.append(eski[h["id"]])
                 continue
