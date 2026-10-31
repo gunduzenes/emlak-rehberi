@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "updatedAt": "31.10.2026",
  "disclaimer": "Emlak Rehberi, taşınmaz alım satımı, kiralama, kat mülkiyeti ve kentsel dönüşüm konularında genel bilgi sunan bağımsız bir rehber uygulamasıdır. Uygulamadaki bilgiler hukuki danışmanlık, hukuki görüş, vergi veya yatırım danışmanlığı değildir ve avukat–müvekkil ilişkisi kurmaz. Hukuki içerik yürürlükteki mevzuattan derlenmiştir; mevzuat ve idari uygulamalar değişebilir. Piyasa verileri TCMB, TÜİK ve ilgili kamu kurumlarının yayımladığı resmî istatistiklerden kaynak gösterilerek alınmıştır; kurumlar verilerin doğruluğu konusunda taahhüt vermez. Hesaplayıcılar tahmini sonuç verir; kesin tutarlar tapu müdürlüğü, vergi dairesi, banka veya ilgili idarece belirlenir. Uygulamanın kullanımından doğabilecek zararlardan geliştirici sorumlu tutulamaz. Somut durumunuz için bir avukata ve ilgili uzmana danışınız. Kurucu: Av. Enes Gündüz. © 2026 Av. Enes Gündüz, tüm hakları saklıdır.",
  "scopeNote": "İlk sürüm İstanbul odaklıdır; diğer iller sonraki güncellemelerle eklenecektir.",
@@ -1291,7 +1291,7 @@
   }
  ],
  "market": {
-  "asOf": "31.10.2026",
+  "asOf": "Eylül 2026",
   "note": "Göstergeler her ay TCMB ve TÜİK bültenlerinden güncellenir. Her kartta kaynak ve dönem yazar.",
   "indicators": [
    {
@@ -1299,7 +1299,7 @@
     "scope": "istanbul",
     "title": "Konut fiyat endeksi",
     "value": "%26,8",
-    "detail": "Yıllık artış · endeks 230,9 · aylık %2,0",
+    "detail": "Yıllık artış · endeks 230,8 · aylık %2,0",
     "period": "Eylül 2026",
     "source": "TCMB",
     "sourceUrl": "https://evds3.tcmb.gov.tr",
@@ -1310,7 +1310,7 @@
     "scope": "istanbul",
     "title": "Yeni kiracı kira endeksi",
     "value": "%3,5",
-    "detail": "Aylık artış (İstanbul)",
+    "detail": "Aylık artış (İstanbul) · yıllık %35,5",
     "period": "Eylül 2026",
     "source": "TCMB",
     "sourceUrl": "https://evds3.tcmb.gov.tr",
@@ -1394,7 +1394,1269 @@
     "free": true
    }
   ],
-  "series": []
+  "series": [
+   {
+    "id": "kfe-ist",
+    "scope": "istanbul",
+    "title": "İstanbul konut fiyat endeksi",
+    "unit": "endeks",
+    "source": "TCMB",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "code": "TP.KFE.TR10",
+    "points": [
+     {
+      "period": "2018-01",
+      "value": 11.74
+     },
+     {
+      "period": "2018-02",
+      "value": 11.76
+     },
+     {
+      "period": "2018-03",
+      "value": 11.79
+     },
+     {
+      "period": "2018-04",
+      "value": 11.79
+     },
+     {
+      "period": "2018-05",
+      "value": 12.01
+     },
+     {
+      "period": "2018-06",
+      "value": 12.06
+     },
+     {
+      "period": "2018-07",
+      "value": 11.92
+     },
+     {
+      "period": "2018-08",
+      "value": 11.87
+     },
+     {
+      "period": "2018-09",
+      "value": 11.93
+     },
+     {
+      "period": "2018-10",
+      "value": 12.18
+     },
+     {
+      "period": "2018-11",
+      "value": 12.18
+     },
+     {
+      "period": "2018-12",
+      "value": 11.85
+     },
+     {
+      "period": "2019-01",
+      "value": 11.79
+     },
+     {
+      "period": "2019-02",
+      "value": 11.74
+     },
+     {
+      "period": "2019-03",
+      "value": 11.56
+     },
+     {
+      "period": "2019-04",
+      "value": 11.7
+     },
+     {
+      "period": "2019-05",
+      "value": 11.81
+     },
+     {
+      "period": "2019-06",
+      "value": 11.55
+     },
+     {
+      "period": "2019-07",
+      "value": 11.76
+     },
+     {
+      "period": "2019-08",
+      "value": 11.79
+     },
+     {
+      "period": "2019-09",
+      "value": 11.98
+     },
+     {
+      "period": "2019-10",
+      "value": 12.14
+     },
+     {
+      "period": "2019-11",
+      "value": 12.32
+     },
+     {
+      "period": "2019-12",
+      "value": 12.43
+     },
+     {
+      "period": "2020-01",
+      "value": 12.69
+     },
+     {
+      "period": "2020-02",
+      "value": 12.98
+     },
+     {
+      "period": "2020-03",
+      "value": 13.21
+     },
+     {
+      "period": "2020-04",
+      "value": 13.23
+     },
+     {
+      "period": "2020-05",
+      "value": 13.39
+     },
+     {
+      "period": "2020-06",
+      "value": 14.05
+     },
+     {
+      "period": "2020-07",
+      "value": 14.59
+     },
+     {
+      "period": "2020-08",
+      "value": 14.89
+     },
+     {
+      "period": "2020-09",
+      "value": 15.07
+     },
+     {
+      "period": "2020-10",
+      "value": 15.45
+     },
+     {
+      "period": "2020-11",
+      "value": 15.84
+     },
+     {
+      "period": "2020-12",
+      "value": 15.89
+     },
+     {
+      "period": "2021-01",
+      "value": 16.15
+     },
+     {
+      "period": "2021-02",
+      "value": 16.69
+     },
+     {
+      "period": "2021-03",
+      "value": 16.94
+     },
+     {
+      "period": "2021-04",
+      "value": 17.27
+     },
+     {
+      "period": "2021-05",
+      "value": 17.48
+     },
+     {
+      "period": "2021-06",
+      "value": 17.96
+     },
+     {
+      "period": "2021-07",
+      "value": 18.59
+     },
+     {
+      "period": "2021-08",
+      "value": 18.97
+     },
+     {
+      "period": "2021-09",
+      "value": 19.95
+     },
+     {
+      "period": "2021-10",
+      "value": 21.1
+     },
+     {
+      "period": "2021-11",
+      "value": 23.04
+     },
+     {
+      "period": "2021-12",
+      "value": 26.74
+     },
+     {
+      "period": "2022-01",
+      "value": 30.84
+     },
+     {
+      "period": "2022-02",
+      "value": 33.41
+     },
+     {
+      "period": "2022-03",
+      "value": 36.97
+     },
+     {
+      "period": "2022-04",
+      "value": 41.71
+     },
+     {
+      "period": "2022-05",
+      "value": 47.55
+     },
+     {
+      "period": "2022-06",
+      "value": 53.57
+     },
+     {
+      "period": "2022-07",
+      "value": 57.13
+     },
+     {
+      "period": "2022-08",
+      "value": 60.25
+     },
+     {
+      "period": "2022-09",
+      "value": 64.0
+     },
+     {
+      "period": "2022-10",
+      "value": 66.23
+     },
+     {
+      "period": "2022-11",
+      "value": 67.96
+     },
+     {
+      "period": "2022-12",
+      "value": 70.87
+     },
+     {
+      "period": "2023-01",
+      "value": 77.45
+     },
+     {
+      "period": "2023-02",
+      "value": 81.89
+     },
+     {
+      "period": "2023-03",
+      "value": 88.17
+     },
+     {
+      "period": "2023-04",
+      "value": 89.9
+     },
+     {
+      "period": "2023-05",
+      "value": 93.76
+     },
+     {
+      "period": "2023-06",
+      "value": 95.83
+     },
+     {
+      "period": "2023-07",
+      "value": 102.85
+     },
+     {
+      "period": "2023-08",
+      "value": 108.24
+     },
+     {
+      "period": "2023-09",
+      "value": 112.98
+     },
+     {
+      "period": "2023-10",
+      "value": 116.29
+     },
+     {
+      "period": "2023-11",
+      "value": 115.16
+     },
+     {
+      "period": "2023-12",
+      "value": 117.48
+     },
+     {
+      "period": "2024-01",
+      "value": 118.07
+     },
+     {
+      "period": "2024-02",
+      "value": 122.22
+     },
+     {
+      "period": "2024-03",
+      "value": 123.26
+     },
+     {
+      "period": "2024-04",
+      "value": 122.87
+     },
+     {
+      "period": "2024-05",
+      "value": 127.96
+     },
+     {
+      "period": "2024-06",
+      "value": 130.58
+     },
+     {
+      "period": "2024-07",
+      "value": 130.43
+     },
+     {
+      "period": "2024-08",
+      "value": 137.79
+     },
+     {
+      "period": "2024-09",
+      "value": 139.42
+     },
+     {
+      "period": "2024-10",
+      "value": 141.15
+     },
+     {
+      "period": "2024-11",
+      "value": 145.4
+     },
+     {
+      "period": "2024-12",
+      "value": 148.57
+     },
+     {
+      "period": "2025-01",
+      "value": 153.01
+     },
+     {
+      "period": "2025-02",
+      "value": 157.12
+     },
+     {
+      "period": "2025-03",
+      "value": 160.77
+     },
+     {
+      "period": "2025-04",
+      "value": 165.17
+     },
+     {
+      "period": "2025-05",
+      "value": 169.52
+     },
+     {
+      "period": "2025-06",
+      "value": 173.13
+     },
+     {
+      "period": "2025-07",
+      "value": 174.17
+     },
+     {
+      "period": "2025-08",
+      "value": 179.45
+     },
+     {
+      "period": "2025-09",
+      "value": 182.07
+     },
+     {
+      "period": "2025-10",
+      "value": 186.87
+     },
+     {
+      "period": "2025-11",
+      "value": 191.32
+     },
+     {
+      "period": "2025-12",
+      "value": 190.92
+     },
+     {
+      "period": "2026-01",
+      "value": 196.7
+     },
+     {
+      "period": "2026-02",
+      "value": 200.95
+     },
+     {
+      "period": "2026-03",
+      "value": 205.1
+     },
+     {
+      "period": "2026-04",
+      "value": 208.32
+     },
+     {
+      "period": "2026-05",
+      "value": 212.47
+     },
+     {
+      "period": "2026-06",
+      "value": 216.62
+     },
+     {
+      "period": "2026-07",
+      "value": 222.4
+     },
+     {
+      "period": "2026-08",
+      "value": 226.36
+     },
+     {
+      "period": "2026-09",
+      "value": 230.85
+     }
+    ]
+   },
+   {
+    "id": "ykke-ist",
+    "scope": "istanbul",
+    "title": "İstanbul yeni kiracı kira endeksi",
+    "unit": "endeks",
+    "source": "TCMB",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "code": "TP.YKKE.TR10",
+    "points": [
+     {
+      "period": "2018-01",
+      "value": 11.78
+     },
+     {
+      "period": "2018-02",
+      "value": 11.92
+     },
+     {
+      "period": "2018-03",
+      "value": 12.04
+     },
+     {
+      "period": "2018-04",
+      "value": 11.92
+     },
+     {
+      "period": "2018-05",
+      "value": 12.15
+     },
+     {
+      "period": "2018-06",
+      "value": 12.32
+     },
+     {
+      "period": "2018-07",
+      "value": 12.27
+     },
+     {
+      "period": "2018-08",
+      "value": 12.32
+     },
+     {
+      "period": "2018-09",
+      "value": 12.32
+     },
+     {
+      "period": "2018-10",
+      "value": 12.94
+     },
+     {
+      "period": "2018-11",
+      "value": 12.66
+     },
+     {
+      "period": "2018-12",
+      "value": 12.4
+     },
+     {
+      "period": "2019-01",
+      "value": 12.44
+     },
+     {
+      "period": "2019-02",
+      "value": 12.31
+     },
+     {
+      "period": "2019-03",
+      "value": 12.11
+     },
+     {
+      "period": "2019-04",
+      "value": 12.44
+     },
+     {
+      "period": "2019-05",
+      "value": 12.49
+     },
+     {
+      "period": "2019-06",
+      "value": 12.43
+     },
+     {
+      "period": "2019-07",
+      "value": 12.31
+     },
+     {
+      "period": "2019-08",
+      "value": 12.78
+     },
+     {
+      "period": "2019-09",
+      "value": 13.02
+     },
+     {
+      "period": "2019-10",
+      "value": 13.17
+     },
+     {
+      "period": "2019-11",
+      "value": 13.35
+     },
+     {
+      "period": "2019-12",
+      "value": 13.4
+     },
+     {
+      "period": "2020-01",
+      "value": 13.54
+     },
+     {
+      "period": "2020-02",
+      "value": 13.93
+     },
+     {
+      "period": "2020-03",
+      "value": 14.28
+     },
+     {
+      "period": "2020-04",
+      "value": 14.37
+     },
+     {
+      "period": "2020-05",
+      "value": 14.47
+     },
+     {
+      "period": "2020-06",
+      "value": 14.9
+     },
+     {
+      "period": "2020-07",
+      "value": 15.42
+     },
+     {
+      "period": "2020-08",
+      "value": 15.8
+     },
+     {
+      "period": "2020-09",
+      "value": 16.03
+     },
+     {
+      "period": "2020-10",
+      "value": 16.43
+     },
+     {
+      "period": "2020-11",
+      "value": 16.83
+     },
+     {
+      "period": "2020-12",
+      "value": 16.89
+     },
+     {
+      "period": "2021-01",
+      "value": 17.18
+     },
+     {
+      "period": "2021-02",
+      "value": 17.37
+     },
+     {
+      "period": "2021-03",
+      "value": 17.72
+     },
+     {
+      "period": "2021-04",
+      "value": 18.17
+     },
+     {
+      "period": "2021-05",
+      "value": 18.53
+     },
+     {
+      "period": "2021-06",
+      "value": 18.98
+     },
+     {
+      "period": "2021-07",
+      "value": 19.65
+     },
+     {
+      "period": "2021-08",
+      "value": 20.17
+     },
+     {
+      "period": "2021-09",
+      "value": 21.3
+     },
+     {
+      "period": "2021-10",
+      "value": 22.56
+     },
+     {
+      "period": "2021-11",
+      "value": 24.66
+     },
+     {
+      "period": "2021-12",
+      "value": 27.8
+     },
+     {
+      "period": "2022-01",
+      "value": 31.72
+     },
+     {
+      "period": "2022-02",
+      "value": 33.73
+     },
+     {
+      "period": "2022-03",
+      "value": 36.34
+     },
+     {
+      "period": "2022-04",
+      "value": 40.72
+     },
+     {
+      "period": "2022-05",
+      "value": 43.43
+     },
+     {
+      "period": "2022-06",
+      "value": 50.01
+     },
+     {
+      "period": "2022-07",
+      "value": 52.99
+     },
+     {
+      "period": "2022-08",
+      "value": 55.7
+     },
+     {
+      "period": "2022-09",
+      "value": 59.38
+     },
+     {
+      "period": "2022-10",
+      "value": 61.58
+     },
+     {
+      "period": "2022-11",
+      "value": 64.66
+     },
+     {
+      "period": "2022-12",
+      "value": 67.31
+     },
+     {
+      "period": "2023-01",
+      "value": 73.61
+     },
+     {
+      "period": "2023-02",
+      "value": 77.2
+     },
+     {
+      "period": "2023-03",
+      "value": 83.08
+     },
+     {
+      "period": "2023-04",
+      "value": 86.67
+     },
+     {
+      "period": "2023-05",
+      "value": 90.36
+     },
+     {
+      "period": "2023-06",
+      "value": 95.3
+     },
+     {
+      "period": "2023-07",
+      "value": 104.21
+     },
+     {
+      "period": "2023-08",
+      "value": 111.35
+     },
+     {
+      "period": "2023-09",
+      "value": 115.32
+     },
+     {
+      "period": "2023-10",
+      "value": 120.17
+     },
+     {
+      "period": "2023-11",
+      "value": 120.17
+     },
+     {
+      "period": "2023-12",
+      "value": 122.55
+     },
+     {
+      "period": "2024-01",
+      "value": 127.82
+     },
+     {
+      "period": "2024-02",
+      "value": 134.16
+     },
+     {
+      "period": "2024-03",
+      "value": 135.1
+     },
+     {
+      "period": "2024-04",
+      "value": 138.17
+     },
+     {
+      "period": "2024-05",
+      "value": 145.55
+     },
+     {
+      "period": "2024-06",
+      "value": 149.98
+     },
+     {
+      "period": "2024-07",
+      "value": 153.06
+     },
+     {
+      "period": "2024-08",
+      "value": 164.02
+     },
+     {
+      "period": "2024-09",
+      "value": 171.3
+     },
+     {
+      "period": "2024-10",
+      "value": 180.77
+     },
+     {
+      "period": "2024-11",
+      "value": 186.08
+     },
+     {
+      "period": "2024-12",
+      "value": 189.86
+     },
+     {
+      "period": "2025-01",
+      "value": 197.47
+     },
+     {
+      "period": "2025-02",
+      "value": 197.89
+     },
+     {
+      "period": "2025-03",
+      "value": 204.32
+     },
+     {
+      "period": "2025-04",
+      "value": 211.88
+     },
+     {
+      "period": "2025-05",
+      "value": 217.62
+     },
+     {
+      "period": "2025-06",
+      "value": 228.35
+     },
+     {
+      "period": "2025-07",
+      "value": 233.71
+     },
+     {
+      "period": "2025-08",
+      "value": 241.64
+     },
+     {
+      "period": "2025-09",
+      "value": 248.31
+     },
+     {
+      "period": "2025-10",
+      "value": 255.78
+     },
+     {
+      "period": "2025-11",
+      "value": 260.14
+     },
+     {
+      "period": "2025-12",
+      "value": 262.53
+     },
+     {
+      "period": "2026-01",
+      "value": 272.53
+     },
+     {
+      "period": "2026-02",
+      "value": 278.77
+     },
+     {
+      "period": "2026-03",
+      "value": 284.73
+     },
+     {
+      "period": "2026-04",
+      "value": 288.58
+     },
+     {
+      "period": "2026-05",
+      "value": 297.26
+     },
+     {
+      "period": "2026-06",
+      "value": 304.25
+     },
+     {
+      "period": "2026-07",
+      "value": 309.79
+     },
+     {
+      "period": "2026-08",
+      "value": 325.08
+     },
+     {
+      "period": "2026-09",
+      "value": 336.53
+     }
+    ]
+   },
+   {
+    "id": "tufe-tr",
+    "scope": "turkiye",
+    "title": "TÜFE yıllık değişim",
+    "unit": "%",
+    "source": "TÜİK (EVDS)",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "code": "TP.FG.J0",
+    "points": [
+     {
+      "period": "2018-01",
+      "value": 10.35
+     },
+     {
+      "period": "2018-02",
+      "value": 10.26
+     },
+     {
+      "period": "2018-03",
+      "value": 10.23
+     },
+     {
+      "period": "2018-04",
+      "value": 10.85
+     },
+     {
+      "period": "2018-05",
+      "value": 12.15
+     },
+     {
+      "period": "2018-06",
+      "value": 15.39
+     },
+     {
+      "period": "2018-07",
+      "value": 15.85
+     },
+     {
+      "period": "2018-08",
+      "value": 17.9
+     },
+     {
+      "period": "2018-09",
+      "value": 24.52
+     },
+     {
+      "period": "2018-10",
+      "value": 25.24
+     },
+     {
+      "period": "2018-11",
+      "value": 21.62
+     },
+     {
+      "period": "2018-12",
+      "value": 20.3
+     },
+     {
+      "period": "2019-01",
+      "value": 20.35
+     },
+     {
+      "period": "2019-02",
+      "value": 19.67
+     },
+     {
+      "period": "2019-03",
+      "value": 19.71
+     },
+     {
+      "period": "2019-04",
+      "value": 19.5
+     },
+     {
+      "period": "2019-05",
+      "value": 18.71
+     },
+     {
+      "period": "2019-06",
+      "value": 15.72
+     },
+     {
+      "period": "2019-07",
+      "value": 16.65
+     },
+     {
+      "period": "2019-08",
+      "value": 15.01
+     },
+     {
+      "period": "2019-09",
+      "value": 9.26
+     },
+     {
+      "period": "2019-10",
+      "value": 8.55
+     },
+     {
+      "period": "2019-11",
+      "value": 10.56
+     },
+     {
+      "period": "2019-12",
+      "value": 11.84
+     },
+     {
+      "period": "2020-01",
+      "value": 12.15
+     },
+     {
+      "period": "2020-02",
+      "value": 12.37
+     },
+     {
+      "period": "2020-03",
+      "value": 11.86
+     },
+     {
+      "period": "2020-04",
+      "value": 10.94
+     },
+     {
+      "period": "2020-05",
+      "value": 11.39
+     },
+     {
+      "period": "2020-06",
+      "value": 12.62
+     },
+     {
+      "period": "2020-07",
+      "value": 11.76
+     },
+     {
+      "period": "2020-08",
+      "value": 11.77
+     },
+     {
+      "period": "2020-09",
+      "value": 11.75
+     },
+     {
+      "period": "2020-10",
+      "value": 11.89
+     },
+     {
+      "period": "2020-11",
+      "value": 14.03
+     },
+     {
+      "period": "2020-12",
+      "value": 14.6
+     },
+     {
+      "period": "2021-01",
+      "value": 14.97
+     },
+     {
+      "period": "2021-02",
+      "value": 15.61
+     },
+     {
+      "period": "2021-03",
+      "value": 16.19
+     },
+     {
+      "period": "2021-04",
+      "value": 17.14
+     },
+     {
+      "period": "2021-05",
+      "value": 16.59
+     },
+     {
+      "period": "2021-06",
+      "value": 17.53
+     },
+     {
+      "period": "2021-07",
+      "value": 18.95
+     },
+     {
+      "period": "2021-08",
+      "value": 19.25
+     },
+     {
+      "period": "2021-09",
+      "value": 19.58
+     },
+     {
+      "period": "2021-10",
+      "value": 19.89
+     },
+     {
+      "period": "2021-11",
+      "value": 21.31
+     },
+     {
+      "period": "2021-12",
+      "value": 36.08
+     },
+     {
+      "period": "2022-01",
+      "value": 48.69
+     },
+     {
+      "period": "2022-02",
+      "value": 54.44
+     },
+     {
+      "period": "2022-03",
+      "value": 61.14
+     },
+     {
+      "period": "2022-04",
+      "value": 69.97
+     },
+     {
+      "period": "2022-05",
+      "value": 73.5
+     },
+     {
+      "period": "2022-06",
+      "value": 78.62
+     },
+     {
+      "period": "2022-07",
+      "value": 79.6
+     },
+     {
+      "period": "2022-08",
+      "value": 80.21
+     },
+     {
+      "period": "2022-09",
+      "value": 83.45
+     },
+     {
+      "period": "2022-10",
+      "value": 85.51
+     },
+     {
+      "period": "2022-11",
+      "value": 84.39
+     },
+     {
+      "period": "2022-12",
+      "value": 64.27
+     },
+     {
+      "period": "2023-01",
+      "value": 57.68
+     },
+     {
+      "period": "2023-02",
+      "value": 55.18
+     },
+     {
+      "period": "2023-03",
+      "value": 50.51
+     },
+     {
+      "period": "2023-04",
+      "value": 43.68
+     },
+     {
+      "period": "2023-05",
+      "value": 39.59
+     },
+     {
+      "period": "2023-06",
+      "value": 38.21
+     },
+     {
+      "period": "2023-07",
+      "value": 47.83
+     },
+     {
+      "period": "2023-08",
+      "value": 58.94
+     },
+     {
+      "period": "2023-09",
+      "value": 61.53
+     },
+     {
+      "period": "2023-10",
+      "value": 61.36
+     },
+     {
+      "period": "2023-11",
+      "value": 61.98
+     },
+     {
+      "period": "2023-12",
+      "value": 64.77
+     },
+     {
+      "period": "2024-01",
+      "value": 64.86
+     },
+     {
+      "period": "2024-02",
+      "value": 67.07
+     },
+     {
+      "period": "2024-03",
+      "value": 68.5
+     },
+     {
+      "period": "2024-04",
+      "value": 69.8
+     },
+     {
+      "period": "2024-05",
+      "value": 75.45
+     },
+     {
+      "period": "2024-06",
+      "value": 71.6
+     },
+     {
+      "period": "2024-07",
+      "value": 61.78
+     },
+     {
+      "period": "2024-08",
+      "value": 51.97
+     },
+     {
+      "period": "2024-09",
+      "value": 49.38
+     },
+     {
+      "period": "2024-10",
+      "value": 48.58
+     },
+     {
+      "period": "2024-11",
+      "value": 47.09
+     },
+     {
+      "period": "2024-12",
+      "value": 44.38
+     },
+     {
+      "period": "2025-01",
+      "value": 42.12
+     },
+     {
+      "period": "2025-02",
+      "value": 39.05
+     },
+     {
+      "period": "2025-03",
+      "value": 38.1
+     },
+     {
+      "period": "2025-04",
+      "value": 37.86
+     },
+     {
+      "period": "2025-05",
+      "value": 35.41
+     },
+     {
+      "period": "2025-06",
+      "value": 35.05
+     },
+     {
+      "period": "2025-07",
+      "value": 33.52
+     },
+     {
+      "period": "2025-08",
+      "value": 32.95
+     },
+     {
+      "period": "2025-09",
+      "value": 33.29
+     },
+     {
+      "period": "2025-10",
+      "value": 32.87
+     },
+     {
+      "period": "2025-11",
+      "value": 31.07
+     },
+     {
+      "period": "2025-12",
+      "value": 30.89
+     },
+     {
+      "period": "2026-01",
+      "value": 30.65
+     }
+    ]
+   }
+  ]
  },
  "params": {
   "year": 2026,
