@@ -1,0 +1,1558 @@
+{
+ "version": 1,
+ "updatedAt": "31.10.2026",
+ "disclaimer": "Emlak Rehberi, taşınmaz alım satımı, kiralama, kat mülkiyeti ve kentsel dönüşüm konularında genel bilgi sunan bağımsız bir rehber uygulamasıdır. Uygulamadaki bilgiler hukuki danışmanlık, hukuki görüş, vergi veya yatırım danışmanlığı değildir ve avukat–müvekkil ilişkisi kurmaz. Hukuki içerik yürürlükteki mevzuattan derlenmiştir; mevzuat ve idari uygulamalar değişebilir. Piyasa verileri TCMB, TÜİK ve ilgili kamu kurumlarının yayımladığı resmî istatistiklerden kaynak gösterilerek alınmıştır; kurumlar verilerin doğruluğu konusunda taahhüt vermez. Hesaplayıcılar tahmini sonuç verir; kesin tutarlar tapu müdürlüğü, vergi dairesi, banka veya ilgili idarece belirlenir. Uygulamanın kullanımından doğabilecek zararlardan geliştirici sorumlu tutulamaz. Somut durumunuz için bir avukata ve ilgili uzmana danışınız. Kurucu: Av. Enes Gündüz. © 2026 Av. Enes Gündüz, tüm hakları saklıdır.",
+ "scopeNote": "İlk sürüm İstanbul odaklıdır; diğer iller sonraki güncellemelerle eklenecektir.",
+ "categories": [
+  {
+   "id": "satin-alma",
+   "title": "Satın alma ve satış",
+   "subtitle": "Tapu devri, satış vaadi, kapora, kredi ve vergiler",
+   "icon": "house",
+   "topics": [
+    {
+     "id": "tapu-devri-adim-adim",
+     "title": "Tapu devri adım adım",
+     "summary": "Taşınmaz satışı yalnız tapu müdürlüğünde resmî senetle yapılırsa geçerlidir; emlakçıda ya da evde imzalanan satış sözleşmesi mülkiyeti geçirmez. Süreç Web Tapu'dan başvuruyla başlar, harç ve döner sermaye ödendikten sonra tapu müdürlüğünde imzayla tamamlanır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Tapu kaydını kontrol edin.** e-Devlet veya Web Tapu'dan taşınmazın malikini, hisse durumunu ve tapudaki şerh, beyan ve ipotekleri görün. Haciz, ipotek, satış vaadi veya aile konutu şerhi varsa satıştan önce çözülmesi gerekir.",
+        "**İmar ve yapı durumunu öğrenin.** Belediyeden imar durumunu ve binanın iskânlı olup olmadığını sorun; kat irtifaklı mı kat mülkiyetli mi olduğunu tapudan görün.",
+        "**Web Tapu'dan başvuru yapın.** Satıcı veya alıcı başvuruyu oluşturur, tapu müdürlüğü randevu verir ve ödenecek tutarları bildirir.",
+        "**Belgeleri hazırlayın.** Kimlik, geçerli DASK poliçesi (konutlarda) ve tapu müdürlüğünün istediği diğer belgeler. Vekille işlem yapılacaksa vekâletnamenin noterde düzenleme şeklinde olması gerekir.",
+        "**Harç ve döner sermayeyi ödeyin.** Tapu harcı alıcı ve satıcıdan ayrı ayrı alınır; beyan edilen bedel emlak vergisi değerinin altında olamaz. Döner sermaye ücreti ayrıca ödenir.",
+        "**Tapu müdürlüğünde imzalayın.** Taraflar resmî senedi tapu görevlisinin önünde imzalar; tescille mülkiyet alıcıya geçer. Taraflar farklı şehirlerde veya yurt dışındaysa iradeler ayrı ayrı alınabilir.",
+        "**Sonrası.** Su, elektrik, doğalgaz aboneliklerini devralın; emlak vergisi kaydınızın belediyede oluştuğunu kontrol edin."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Satış bedelini tapu imzasından önce elden ödemeyin; banka üzerinden ve mümkünse imza anına bağlı bir yöntemle ödeyin.",
+        "Tapuda gerçek bedeli beyan edin; düşük bedel gösterilmesinin sonuçları için ilgili konuya bakın.",
+        "Kat irtifaklı bir dairede iskân alınmamışsa, binanın projeye aykırılık nedeniyle iskân alamama riski olabilir.",
+        "Satıcı evliyse ve ev aile konutuysa, eşin açık rızası gerekir; şerh olmasa da bu kural geçerlidir.",
+        "Hisseli tapuda payınızı satarsanız diğer paydaşların önalım hakkı doğabilir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.706, 1010, 194; TBK m.237; Tapu K. m.26; Harçlar K. m.63 ve (4) sayılı tarife; 6083 s. K. m.8.",
+     "pro": true,
+     "freeSections": 1,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "satis-vaadi-sozlesmesi-ve-noter",
+     "title": "Satış vaadi sözleşmesi ve noter",
+     "summary": "Satış vaadi, ileride tapuda satış yapma sözüdür ve yalnız noterde düzenleme şeklinde yapılırsa geçerlidir. Noterde yapılan vaat tapuya şerh verdirilirse, satıcı daireyi başkasına satsa bile hakkınız yeni malike karşı korunur.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Noterde düzenleme.** Sözleşme noter tarafından düzenleme şeklinde hazırlanır; noterde yalnız imza onayı (onaylama) yetmez. Adi yazılı veya emlakçıda imzalanan vaat sözleşmesi geçersizdir.",
+        "**Tapuya şerh.** Taraflardan biri isterse ve harç ile giderleri öderse noter, sözleşmeyi tapu bilişim sistemi üzerinden tapuya şerh eder.",
+        "**Şerhin süresi.** Şerhten itibaren 5 yıl içinde satış yapılmazsa şerh tapu müdürlüğünce resen silinir. Bu sürede satış gerçekleşmezse haklarınızı dava yoluyla korumanız gerekir.",
+        "**Satıcı vazgeçerse.** Satıcı tapuda devirden kaçınırsa, alıcı mahkemeden mülkiyetin hükmen kendi adına geçirilmesini (tapu iptal ve tescil) isteyebilir; bunun için kendi edimini yerine getirmiş veya getirmeye hazır olması gerekir.",
+        "**Noter de satış yapabilir.** Noterler artık taşınmaz satış sözleşmesi de düzenleyebilir; ayrıntılı uygulama için tapu müdürlüğüne ve notere danışın."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Sözleşmede bedel, ödeme planı, teslim tarihi ve gecikme hâlinde ne olacağı açıkça yazılmalı.",
+        "Şerh verdirmek ek masraf getirir ama satıcının daireyi başkasına satma ya da ipotek ettirme riskine karşı en güçlü korumadır.",
+        "Proje aşamasındaki dairelerde satıcının müteahhit olup olmadığını ve arsa sahipleriyle sözleşmesinin geçerli olduğunu araştırın."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.237; Noterlik K. m.60/3 ve m.89; Tapu K. m.26; TMK m.716.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kapora-baglanma-parasi-ve-cayma-parasi",
+     "title": "Kapora: bağlanma parası ve cayma parası",
+     "summary": "Kanuna göre sözleşme yapılırken verilen para, aksi kararlaştırılmadıkça cayma parası değil bağlanma parasıdır ve satış bedelinden düşülür. Ancak taşınmaz satışı ve satış vaadi resmî şekilde yapılmadıysa sözleşme geçersizdir; bu durumda kapora da \"cayma parası\" yazsa bile geri istenebilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Bağlanma parası.** Sözleşmenin yapıldığını kanıtlar; satış gerçekleşince bedelden düşülür.",
+        "**Cayma parası.** Taraflara sözleşmeden vazgeçme hakkı verir. Parayı veren caymak isterse parayı bırakır; parayı alan caymak isterse aldığının iki katını öder. Bunun için sözleşmede açıkça cayma parası olduğunun yazılması gerekir.",
+        "**Geçersiz sözleşmede kapora.** Emlakçıda ya da evde yapılan taşınmaz satış veya satış vaadi sözleşmesi resmî şekle uymadığı için geçersizdir. Geçersiz sözleşmeye bağlı cayma parası şartı da hüküm doğurmaz; taraflar aldıklarını sebepsiz zenginleşme hükümlerine göre geri verir.",
+        "**Geri isteme yolu.** Önce yazılı olarak (tercihen noter ihtarıyla) iade isteyin; ödenmezse icra takibi veya dava yoluna gidilebilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Kaporayı mutlaka banka üzerinden, açıklamasına \"kapora\" ve taşınmaz bilgisini yazarak gönderin; elden ödemede ispat zorlaşır.",
+        "\"Cayma parası sözleşmesi\" imzalamak, resmî şekil olmadan size satış hakkı kazandırmaz; satıcı daireyi başkasına satabilir.",
+        "Emlakçı hizmet bedeli kaporadan ayrıdır ve kendi kurallarına tabidir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.177, 178, 237, 77 vd. (sebepsiz zenginleşme); TMK m.706.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "tapuda-dusuk-bedel-gosterilmesinin-sonuclari",
+     "title": "Tapuda düşük bedel gösterilmesinin sonuçları",
+     "summary": "Tapu harcı, emlak vergisi değerinden az olmamak üzere beyan edilen satış bedeli üzerinden alınır. Beyan edilen bedelin gerçeği yansıtmadığı sonradan tespit edilirse, eksik harç ve bir kat vergi ziyaı cezası istenir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Alt sınır.** Tapuda beyan edilen bedel, belediyenin belirlediği emlak vergisi değerinin altında olamaz.",
+        "**Gerçek bedel.** Emlak vergisi değerinin üstünde ama gerçek satış bedelinin altında beyan da kanuna aykırıdır; kanun \"gerçek durumu yansıtma\" şartı arar.",
+        "**Tespit edilirse.** Aradaki farka düşen harç sonradan tarh edilir ve buna bir kat vergi ziyaı cezası eklenir. Harç alıcı ve satıcının her birinden ayrı alındığı için risk iki taraf için de doğar.",
+        "**Kat irtifaklı daireler.** Kat irtifaklı taşınmazların devrinde harç, devir bedelinin tamamı üzerinden hesaplanır."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "**İleride satarken vergi.** Taşınmazı 5 yıl içinde satarsanız değer artış kazancı, tapudaki alış bedeline göre hesaplanır; düşük gösterilen alış bedeli kazancınızı ve verginizi büyütür.",
+        "**Uyuşmazlıkta ispat.** Satış iptal edilir veya bedel iadesi gündeme gelirse, tapudaki düşük bedel aleyhinize delil olabilir.",
+        "Bankalar konut kredisinde ekspertiz değerini esas alır; tapu bedeli ile ekspertiz arasındaki büyük fark sorgulanabilir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "Harçlar K. m.63 ve (4) sayılı tarife; VUK m.344 (vergi ziyaı cezası); GVK mük. m.80–81.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kredili-alim-ve-ipotek",
+     "title": "Kredili alım ve ipotek",
+     "summary": "Konut kredisiyle alımda banka, krediye güvence olarak aldığınız eve ipotek koyar; satış ve ipotek genellikle aynı gün tapuda birlikte yapılır. Kredi kapandığında ipoteğin tapudan kaldırılması (terkin) için ayrıca işlem gerekir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Ekspertiz.** Banka evi değerleme uzmanına inceletir; kredi tutarı ekspertiz değerine ve bankanın kredi oranına göre belirlenir. İskânsız veya projeye aykırı yapılarda kredi çıkmayabilir.",
+        "**Satış ve ipotek birlikte.** Satış resmî senedi imzalandıktan hemen sonra banka lehine ipotek tesis edilir; banka kredi tutarını satıcıya genellikle bu işlemden sonra öder.",
+        "**Masraflar.** Satış harcına ek olarak ipotek harcı ve ipotek işlemi için ayrı döner sermaye ücreti alınır; kredi için banka masrafları ve konut sigortası da gündeme gelir.",
+        "**İpotekli ev almak.** Satıcının kendi kredisi sürüyorsa, ipotek satıştan önce ya da satış günü banka ile koordineli olarak kapatılmalıdır.",
+        "**Kredi bitince.** Borç sona erince malik, bankadan ipoteğin terkinini isteyebilir. Süreli kurulan ipotekte, sürenin bitiminden itibaren 30 gün içinde icra takibine ilişkin şerh konulmazsa ipotek malikin talebiyle tapu müdürlüğünce silinir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "İpotek kaldırılmadan evi satmanız mümkündür ama alıcı ve bankası bunu kabul etmeyebilir; kapanış yazısını önceden alın.",
+        "Kredi taksitleri ödenmezse banka ipoteği paraya çevirmek için icra takibi başlatabilir.",
+        "Kredi hesaplayıcısıyla taksit ve toplam geri ödemeyi önceden görün."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.881 vd., m.883; Tapu K. m.26; Harçlar K. (4) sayılı tarife; 6083 s. K. m.8.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "yabancilara-satis",
+     "title": "Yabancılara satış",
+     "summary": "Yabancı uyruklu kişiler, Cumhurbaşkanınca belirlenen ülkelerin vatandaşıysa Türkiye'de taşınmaz edinebilir. Edinim, ilçenin özel mülkiyete konu yüzölçümünün %10'u ve kişi başına ülke genelinde 30 hektar sınırına tabidir; askerî ve stratejik bölgelerde edinim kısıtlanabilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Ülke ve bölge kontrolü.** Alıcının vatandaşı olduğu ülkenin listede olup olmadığı ve taşınmazın askerî yasak, güvenlik veya stratejik bölgede bulunup bulunmadığı tapu müdürlüğünce kontrol edilir.",
+        "**Sınırlar.** Kişi başına ülke genelinde 30 hektar; Cumhurbaşkanı bunu iki katına kadar artırabilir. Cumhurbaşkanı ayrıca ülke, bölge, süre veya miktar bazında edinimi sınırlayabilir ya da durdurabilir.",
+        "**Değerleme raporu.** Yabancıya satışlarda tapu müdürlüğü uygulamada lisanslı bir değerleme kuruluşunun raporunu ister.",
+        "**Arsa alımı.** Yapısız taşınmaz (arsa) alan yabancı, geliştireceği projeyi 2 yıl içinde ilgili Bakanlığın onayına sunmak zorundadır; proje süresinde gerçekleştirilmelidir.",
+        "**Aykırılığın sonucu.** Kurallara aykırı edinilen veya amacı dışında kullanılan taşınmaz, verilen süre içinde malik tarafından elden çıkarılmazsa tasfiye edilerek bedele çevrilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Yatırım yoluyla Türk vatandaşlığı için taşınmazın ilgili yönetmelikte belirlenen asgari değerde olması ve belirli süre satılmaması şarttır; güncel tutar ve şartlar yönetmelikten kontrol edilmelidir.",
+        "Tapu işlemleri yeminli tercüman eşliğinde yapılır; vekâletnamenin yurt dışında düzenlendiyse apostil veya konsolosluk onayı gerekir.",
+        "Yabancı şirketlerin edinimi ayrı kurallara tabidir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "Tapu K. m.35; Tapu K. m.35 uyarınca çıkarılan Cumhurbaşkanı Kararları; Türk Vatandaşlığı K. Uygulama Yönetmeliği.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "deger-artis-kazanci-vergisi",
+     "title": "Değer artış kazancı vergisi",
+     "summary": "Satın aldığınız bir taşınmazı aldığınız tarihten itibaren 5 yıl içinde satarsanız, elde ettiğiniz kazanç gelir vergisine tabi olabilir. Miras veya bağış yoluyla (karşılıksız) edinilen taşınmazların satışında bu vergi doğmaz; 5 yıldan sonra yapılan satışlar da kapsam dışındadır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Kapsam.** Karşılığında bedel ödenerek edinilen taşınmaz, edinme tarihinden başlayarak 5 yıl içinde elden çıkarılırsa doğan kazanç değer artışı kazancıdır. \"Elden çıkarma\" satış, trampa, kamulaştırma ve şirkete sermaye olarak koyma gibi işlemleri kapsar.",
+        "**Kazancın hesabı.** Safi kazanç = satış bedeli − alış maliyeti − satıcının üstlendiği giderler, ödenen vergi ve harçlar.",
+        "**Endeksleme.** Alış bedeli, satış ayı hariç olmak üzere üretici fiyat endeksindeki artış oranında güncellenir; bunun için artışın %10 veya üzerinde olması gerekir. Bu, enflasyonun kazanç gibi vergilenmesini azaltır.",
+        "**İstisna.** Bir takvim yılında elde edilen değer artışı kazancının belirli bir tutarı vergiden istisnadır; tutar her yıl yeniden belirlenir ve uygulamada güncel değer gösterilir.",
+        "**Beyan.** İstisnayı aşan kazanç, izleyen yılın Mart ayında yıllık gelir vergisi beyannamesiyle beyan edilir ve artan oranlı tarifeye göre vergilendirilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Tapuda düşük alış bedeli gösterildiyse, satışta kazanç olduğundan yüksek görünür.",
+        "Kooperatiften alınan konutlarda edinme tarihi, kooperatifin konutu ortağa tahsis ettiği tarihtir.",
+        "Ticari işletmeye kayıtlı taşınmazların satışı bu kurala değil ticari kazanç hükümlerine tabidir.",
+        "Hesaplayıcı tahmini sonuç verir; kesin vergi için mali müşavire danışın."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "GVK mük. m.80 (birinci fıkra 6. bent ve üçüncü fıkra), mük. m.81, m.103; konsolide metin De Jure'den okundu.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kiralama",
+   "title": "Kiralama",
+   "subtitle": "Sözleşme, kira artışı, tahliye ve depozito",
+   "icon": "key",
+   "topics": [
+    {
+     "id": "kira-sozlesmesi-suresi-ve-ev-satilirsa",
+     "title": "Kira sözleşmesi, süresi ve ev satılırsa",
+     "summary": "Konut kirasında süre bitti diye ev sahibi kiracıyı çıkaramaz; kiracı süre bitiminden en az 15 gün önce bildirmedikçe sözleşme aynı şartlarla birer yıl uzar. Ev satılırsa yeni malik kira sözleşmesinin tarafı olur; kiracılık kendiliğinden sona ermez.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Şekil.** Kira sözleşmesi sözlü de kurulabilir; ancak ispat ve artış şartları için yazılı yapılması önerilir.",
+        "**Belirli süreli sözleşme.** Kiracı süre sonunda çıkmak isterse en az 15 gün önceden bildirir; bildirmezse sözleşme bir yıl uzar. Ev sahibi süre bitimine dayanarak sözleşmeyi sona erdiremez.",
+        "**On yıllık uzama.** Uzama yıllarının toplamı 10 yılı doldurunca ev sahibi, izleyen her uzama yılının bitiminden en az 3 ay önce bildirerek sebep göstermeden sözleşmeyi sona erdirebilir. On yıl, ilk sözleşme süresi bittikten sonra saymaya başlar.",
+        "**Belirsiz süreli sözleşme.** Kiracı her zaman, ev sahibi ise kiranın başlangıcından 10 yıl geçtikten sonra genel fesih kurallarına göre sözleşmeyi sona erdirebilir.",
+        "**Ev satılırsa.** Yeni malik mevcut kira sözleşmesinin tarafı olur. Kendi ihtiyacı varsa ayrıca tahliye yoluna gidebilir (Tahliye sebepleri konusuna bakın)."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Konut kirasında fesih bildirimleri yazılı yapılmalıdır; telefonla veya sözlü bildirim ispat ve geçerlilik sorunu doğurur.",
+        "Sözleşmeye konut kiracısı aleyhine konulan bazı şartlar (örneğin olağan kullanımdan doğan eskimeden tazminat taahhüdü) geçersizdir.",
+        "Ev sahibi değişince kira ödemelerini yeni malike yapmaya başlamadan önce yazılı bildirim alın."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.310, 347; m.334/2.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kira-artis-siniri",
+     "title": "Kira artış sınırı",
+     "summary": "Yenilenen kira döneminde artış, bir önceki kira yılındaki TÜFE'nin 12 aylık ortalama değişim oranını geçemez. Sözleşmede daha yüksek bir oran yazsa da yalnız bu sınıra kadar geçerlidir; 2024'e kadar uygulanan %25 geçici sınır artık yoktur.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Oranı bulun.** Kira yılınızın yenilendiği aydan önceki ay için TÜİK'in açıkladığı \"12 aylık ortalamalara göre TÜFE değişimi\"ni kullanın. Uygulamadaki hesaplayıcı bu oranı her ay otomatik günceller.",
+        "**Hesaplayın.** Yeni kira = mevcut kira × (1 + oran). Örnek: 30.000 TL kira ve %31,49 oranla yeni kira en fazla 39.447 TL olur.",
+        "**Daha düşük artış.** Taraflar sınırın altında bir artışta anlaşabilir; sınır yalnız tavandır.",
+        "**Anlaşma yoksa.** Sözleşmede artış hükmü yoksa ve taraflar anlaşamazsa kirayı, aynı sınırı aşmamak üzere hâkim belirler.",
+        "**Uzun süreli sözleşmeler.** Kural bir yıldan uzun süreli sözleşmelerde de her kira yılı için uygulanır."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Sözleşmede kira döviz olarak kararlaştırılmışsa, 5 yıl geçmedikçe kira bedelinde değişiklik yapılamaz (aşırı ifa güçlüğü hâli saklıdır).",
+        "Beş yılı dolduran kiralarda sınır yerine hâkimin emsallere göre belirlemesi mümkündür (Kira tespit davası konusuna bakın).",
+        "Yıllık TÜFE ile 12 aylık ortalama TÜFE farklı oranlardır; kira için ortalama esas alınır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.344/1, 344/2, 344/4.",
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kira-tespit-davasi",
+     "title": "Kira tespit davası",
+     "summary": "Kira 5 yıldan uzun sürdüyse ya da 5 yıldan sonra yenilendiyse, ev sahibi veya kiracı yeni kira bedelinin hâkim tarafından belirlenmesini isteyebilir. Hâkim TÜFE ortalamasını, evin durumunu ve çevredeki emsal kiraları dikkate alarak hakkaniyete uygun bir bedel belirler.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Ne zaman?** Beş yıldan uzun süreli veya beş yıldan sonra yenilenen sözleşmelerde ve bundan sonraki her beş yılın sonunda, sözleşmede ne yazdığına bakılmaksızın açılabilir.",
+        "**Önce arabuluculuk.** Dava açmadan önce arabulucuya başvurmak zorunludur.",
+        "**Zamanlama önemli.** Dava her zaman açılabilir. Ancak yeni dönemin başlangıcından en geç 30 gün önce açılırsa ya da ev sahibi bu süre içinde artışı yazılı olarak bildirmişse, belirlenen kira yeni dönemin başından itibaren geçerli olur.",
+        "**Sözleşmede artış hükmü varsa.** Yeni dönemin sonuna kadar açılan davada belirlenen bedel de dönemin başından geçerli olur.",
+        "**Sonrası.** Mahkemenin belirlediği kira, izleyen yıllarda TÜFE ortalaması sınırıyla artırılmaya devam eder."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Belirlenen yeni kira geriye dönük farkla birlikte istenebileceğinden, dava süresince kiracı aleyhine fark birikebilir.",
+        "Ev sahibi tespit davası açsa da kiracı, süre bitiminden en az 15 gün önce bildirerek sözleşmeyi yenilemeyip evden çıkabilir.",
+        "Döviz cinsinden kiralarda 5 yıldan sonra kur değişimi de dikkate alınır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.344/3, 344/4, 345, 347; HUAK m.18/B.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "tahliye-sebepleri-ve-sureleri",
+     "title": "Tahliye sebepleri ve süreleri",
+     "summary": "Ev sahibi konut kiracısını ancak kanunda sayılan sebeplerden biriyle ve çoğu zaman kısa bir süre içinde açacağı dava veya icra takibiyle çıkarabilir. Bu süreler kaçırılırsa sözleşme bir yıl daha uzar.",
+     "sections": [
+      {
+       "heading": "Sebepler ve süreler",
+       "table": {
+        "headers": [
+         "Sebep",
+         "Kim kullanır",
+         "Süre"
+        ],
+        "rows": [
+         [
+          "Ev sahibinin, eşinin, çocuklarının, anne-babasının veya bakmakla yükümlü olduğu kişilerin konut/işyeri ihtiyacı",
+          "Ev sahibi",
+          "Sözleşme süresi bitiminden itibaren 1 ay içinde dava"
+         ],
+         [
+          "Yeniden inşa veya esaslı onarım (bu sırada evde oturmak imkânsızsa)",
+          "Ev sahibi",
+          "Süre bitiminden itibaren 1 ay içinde dava"
+         ],
+         [
+          "Yeni malikin ihtiyacı",
+          "Evi sonradan satın alan",
+          "Edinmeden itibaren 1 ay içinde yazılı bildirim + 6 ay sonra dava; ya da süre bitiminden itibaren 1 ay içinde dava"
+         ],
+         [
+          "Yazılı tahliye taahhüdü",
+          "Ev sahibi",
+          "Taahhütteki tarihten itibaren 1 ay içinde icra veya dava"
+         ],
+         [
+          "Bir kira yılında iki haklı ihtar",
+          "Ev sahibi",
+          "O kira yılının bitiminden itibaren 1 ay içinde dava"
+         ],
+         [
+          "Kiracının veya eşinin aynı ilçe/belde sınırında oturmaya elverişli konutu olması (sözleşmede bilinmiyorsa)",
+          "Ev sahibi",
+          "Süre bitiminden itibaren 1 ay içinde dava"
+         ],
+         [
+          "On yıllık uzama süresinin dolması",
+          "Ev sahibi",
+          "Uzama yılı bitiminden en az 3 ay önce yazılı bildirim"
+         ],
+         [
+          "Kira ödenmemesi (temerrüt)",
+          "Ev sahibi",
+          "En az 30 gün süreli yazılı ihtardan sonra"
+         ]
+        ]
+       }
+      },
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Önce arabuluculuk.** Tahliye davaları da kira uyuşmazlığıdır; dava öncesi arabulucuya gidilir. İlamsız icra yoluyla tahliye bunun dışındadır.",
+        "**Süreyi uzatma.** Ev sahibi, dava süresi içinde dava açacağını kiracıya yazılı bildirirse dava süresi bir kira yılı uzar.",
+        "**Tahliye taahhüdü.** Geçerli olması için kiralananın tesliminden sonra ve yazılı verilmesi gerekir; sözleşmeyle aynı anda imzalatılan taahhüt tartışmalıdır.",
+        "**İhtiyaç gerçek olmalı.** İhtiyaç sebebiyle tahliyede ihtiyacın gerçek, samimi ve zorunlu olduğu ispatlanmalıdır."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "**Yeniden kiralama yasağı.** İhtiyaç veya yeniden inşa sebebiyle boşaltılan ev, haklı sebep olmadan 3 yıl başkasına kiralanamaz; aksi hâlde ev sahibi eski kiracıya en az bir yıllık kira tutarında tazminat öder.",
+        "**Öncelik hakkı.** Yeniden inşa edilen evi kiralamada eski kiracının öncelik hakkı vardır; ev sahibinin yazılı bildiriminden itibaren 1 ay içinde kullanılır.",
+        "Sürelerin başlangıcı sözleşmenin ilk süresine göre hesaplanır; sözleşmenizdeki başlangıç tarihini not edin."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.315, 347, 350, 351, 352, 353, 355; HUAK m.18/B.",
+     "pro": true,
+     "freeSections": 1,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kira-odenmezse-temerrut-ve-iki-hakli-ihtar",
+     "title": "Kira ödenmezse: temerrüt ve iki haklı ihtar",
+     "summary": "Kira ödenmezse ev sahibi en az 30 gün süre veren yazılı bir ihtar gönderir; kiracı bu sürede ödemezse sözleşme feshedilebilir. Kiracı süre içinde öder ama bir kira yılı içinde iki kez ihtara sebep olursa, ev sahibi yıl sonunda tahliye davası açabilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Temerrüt ihtarı.** Ev sahibi, ödenmeyen kira veya yan gider için kiracıya yazılı olarak en az 30 günlük süre verir ve bu sürede ödenmezse sözleşmeyi feshedeceğini bildirir. Süre, bildirimin tebliğini izleyen günden işlemeye başlar.",
+        "**Sürede ödeme.** Kiracı verilen sürede öderse fesih hakkı doğmaz.",
+        "**İki haklı ihtar.** Bir yıllık veya daha uzun sözleşmelerde aynı kira yılı içinde, ödenmeyen kira için yazılı olarak iki haklı ihtar yapılmışsa, ev sahibi o kira yılının bitiminden itibaren 1 ay içinde tahliye davası açabilir. İhtardan sonra ödeme yapılması ihtarın haklılığını ortadan kaldırmaz.",
+        "**Hızlı yol.** Ev sahibi, kira alacağı için ilamsız icra yoluyla tahliye talepli takip de başlatabilir; bu yol zorunlu arabuluculuğun dışındadır."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Kirayı her ay banka üzerinden, açıklamasına ay bilgisini yazarak ödeyin.",
+        "Kira ödeme günü sözleşmede yazılıdır; yazılı değilse kanuni kurallar uygulanır.",
+        "Komşuları rahatsız etmek veya evi özensiz kullanmak da, en az 30 günlük yazılı ihtardan sonra fesih sebebi olabilir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.315, 316, 352/2; İİK m.269 vd.; HUAK m.18/B.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "depozito-ve-evin-teslimi",
+     "title": "Depozito ve evin teslimi",
+     "summary": "Konut kirasında depozito (güvence) en fazla üç aylık kira kadar olabilir. Kiracı, normal kullanımdan doğan eskime ve yıpranmadan sorumlu değildir; ev sahibi teslim alırken gördüğü eksiklikleri hemen yazılı bildirmezse kiracı sorumluluktan kurtulur.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Üst sınır.** Güvence üç aylık kira bedelini aşamaz.",
+        "**Bankaya yatırma.** Kanuna göre para olarak verilen güvence, ev sahibinin onayı olmadan çekilmemek üzere vadeli bir hesaba yatırılır; banka parayı ancak iki tarafın rızası, kesinleşmiş icra takibi veya mahkeme kararıyla geri verir.",
+        "**Üç ay kuralı.** Ev sahibi, sözleşme bittikten sonra 3 ay içinde kiracıya karşı dava veya takip açtığını bankaya yazılı bildirmezse, banka kiracının istemiyle güvenceyi geri verir.",
+        "**Teslimde kontrol.** Kiracı evi aldığı durumda geri verir. Ev sahibi teslim alırken evi gözden geçirip kiracının sorumlu olduğu eksiklikleri hemen yazılı bildirmelidir; olağan incelemeyle görülemeyecek gizli ayıplar bunun dışındadır."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Taşınırken ve çıkarken evin fotoğraf ve videolarını tarihli olarak çekin; teslim tutanağı düzenleyin.",
+        "Boya eskimesi, normal kullanım izleri depozitodan düşülemez; kırık, hasar ve kötü kullanım zararı düşülebilir.",
+        "Sözleşmeye \"çıkışta boya bedeli ödenecek\" gibi ek tazminat taahhütleri konulması, sözleşmeye aykırı kullanım dışında geçersizdir.",
+        "Uygulamada depozito çoğu zaman elden verilir; bu durumda dekont veya imzalı makbuz alın."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.334, 335, 342.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "onarim-bakim-ve-giderler-kime-ait",
+     "title": "Onarım, bakım ve giderler kime ait",
+     "summary": "Ev sahibi evi kullanıma elverişli teslim etmek ve kira boyunca bu durumda tutmakla yükümlüdür; bu kural konut kiracısı aleyhine değiştirilemez. Kiracı ise olağan kullanım için gereken temizlik ve küçük bakım giderlerini öder.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Ev sahibinin borcu.** Kombi arızası, çatı akması, tesisat sorunu gibi evin kullanımını etkileyen ayıpları gidermek ev sahibine aittir.",
+        "**Kiracının borcu.** Olağan kullanım için gereken temizlik ve bakım giderleri (ampul, conta, filtre gibi) kiracıya aittir; bu konuda yerel âdete de bakılır.",
+        "**Vergi ve sigorta.** Emlak vergisi, zorunlu sigortalar (DASK) ve benzeri yükümlülükler aksi kararlaştırılmadıkça ev sahibine aittir.",
+        "**Aidat.** Kiracı, ortak giderlerden (aidat) malikle birlikte sorumludur; ancak sorumluluğu ödediği kira tutarıyla sınırlıdır ve ödediği aidatı kiradan düşebilir. Büyük onarım ve güçlendirme gibi giderler malike aittir.",
+        "**Ayıp bildirimi.** Kiracı, kendi gideremeyeceği ayıpları ev sahibine hemen bildirmelidir; bildirmezse doğan zarardan sorumlu olabilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Ayıbı yazılı bildirip makul süre verin; ev sahibi gidermezse kanundaki seçimlik haklar (giderme, bedel indirimi, giderip bedelini isteme, fesih) gündeme gelir.",
+        "Kiracının ev sahibinin izni olmadan yaptığı tadilatlar için masraf talebi sınırlıdır; önce yazılı izin alın."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.301, 302, 304 vd., 317; KMK m.20, 22.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kira-uyusmazliklarinda-zorunlu-arabuluculuk",
+     "title": "Kira uyuşmazlıklarında zorunlu arabuluculuk",
+     "summary": "1 Eylül 2023'ten beri kira ilişkisinden doğan uyuşmazlıklarda dava açmadan önce arabulucuya başvurmak zorunludur. Kira alacağı için ilamsız icra yoluyla tahliye bunun dışındadır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Kapsam.** Kira tespiti, tahliye, depozito iadesi, kira alacağı gibi kira ilişkisinden doğan uyuşmazlıklar. Aynı zorunluluk ortaklığın giderilmesi, kat mülkiyeti ve komşu hakkı uyuşmazlıklarında da vardır.",
+        "**Başvuru.** Adliyedeki arabuluculuk bürosuna veya e-Devlet üzerinden başvurulur; büro bir arabulucu görevlendirir.",
+        "**Anlaşılırsa.** Anlaşma belgesine taşınmazın bulunduğu yer sulh hukuk mahkemesinden icra edilebilirlik şerhi alınması zorunludur; şerhli belge mahkeme kararı gibi icra edilebilir.",
+        "**Anlaşılamazsa.** Arabulucunun düzenlediği son tutanakla dava açılır; tutanak dava dilekçesine eklenir.",
+        "**Süreler.** Tahliye davalarındaki kısa (çoğunlukla 1 aylık) süreleri kaçırmamak için arabuluculuk başvurusunu zamanında yapın; arabuluculuk bürosuna başvurudan son tutanağa kadar zamanaşımı durur ve hak düşürücü süre işlemez. Arabulucu başvuruyu görevlendirildiği tarihten itibaren 3 hafta içinde sonuçlandırır; bu süre zorunlu hâllerde en fazla 1 hafta uzatılabilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Arabulucuya başvurmadan açılan dava usulden reddedilir.",
+        "Taşınmazın devrine ilişkin anlaşma belgesi, icra edilebilirlik şerhinden sonra resmî senet aranmadan tapuya tescil ettirilebilir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "HUAK m.18/B (7445 s. K. ile eklendi; 7531 s. K. ile değişik); m.18/A/1, 2, 9, 11, 15.",
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kat-mulkiyeti",
+   "title": "Kat mülkiyeti ve site yaşamı",
+   "subtitle": "Aidat, yönetim, ortak alanlar ve komşuluk",
+   "icon": "building.2",
+   "topics": [
+    {
+     "id": "kat-irtifaki-mi-kat-mulkiyeti-mi",
+     "title": "Kat irtifakı mı, kat mülkiyeti mi?",
+     "summary": "Kat irtifakı, henüz bitmemiş ya da iskânı alınmamış binada ileride kat mülkiyetine dönüşecek haktır; kat mülkiyeti ise iskânı alınmış binadaki tam mülkiyettir. İskân (yapı kullanma izni) alındığında kat irtifakı, ayrıca başvuru gerekmeden tapuda resen kat mülkiyetine çevrilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Kat irtifakı.** Arsa malikleri, onaylı proje ve yönetim planıyla tapuya başvurarak her bağımsız bölüm için arsa payı ayırır; bu da tapuda kayıt altına alınır.",
+        "**İskân.** Bina ruhsat ve projesine uygun bitince malik belediyeden yapı kullanma izni ister; belediye 30 gün içinde sonuçlandırmak zorundadır.",
+        "**Kat mülkiyetine geçiş.** İskân belgesi belediye tarafından elektronik olarak kadastroya gönderilir; cins değişikliği ve kat mülkiyetine geçiş resen yapılır ve bu işlemler döner sermaye ücretinden muaftır.",
+        "**İskânsız binalar.** Yapı kayıt belgesi (imar barışı) alınmış binalarda, maliklerin tamamının onayı ve planda kamuya ayrılan alanların terki şartıyla iskânsız da kat mülkiyetine geçilebilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Kat irtifaklı daire de satılabilir, ipotek edilebilir; ancak iskân alınamazsa kredi ve abonelik sorunları yaşanabilir.",
+        "Tapuda \"kat irtifakı\" yazan bir dairede binanın projeye uygun yapılıp yapılmadığını belediyeden sorun."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "KMK m.2, 10, 14; İmar K. m.30, geçici m.16.",
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "aidat-ve-ortak-giderler",
+     "title": "Aidat ve ortak giderler",
+     "summary": "Kapıcı, kaloriferci, bahçıvan ve bekçi giderleri kural olarak eşit, diğer ortak giderler (bakım, onarım, sigorta, yönetici ücreti, işletme giderleri) arsa payı oranında paylaşılır. Aidatı geciktiren malik, geciktiği günler için aylık %5 gecikme tazminatı öder.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Paylaşım.** Kat malikleri aralarında başka türlü anlaşmadıkça kanundaki paylaşım uygulanır; yönetim planı farklı bir düzen getirebilir.",
+        "**Kaçınılamaz.** \"Asansörü kullanmıyorum\", \"bahçeye çıkmıyorum\" diyerek aidattan kaçınılamaz.",
+        "**Gecikme tazminatı.** Ödenmeyen aidat için aylık %5 gecikme tazminatı işler.",
+        "**Takip.** Yönetici veya herhangi bir kat maliki dava açabilir ya da icra takibi yapabilir. Onaylı işletme projesi takipte belge olarak kullanılır.",
+        "**Kiracının sorumluluğu.** Dairede kiracı oturuyorsa, kiracı da malikle birlikte sorumludur; ancak sorumluluğu ödediği kira tutarıyla sınırlıdır ve ödediğini kiradan düşer.",
+        "**Kanuni ipotek.** Borç yine tahsil edilemezse, mahkemece belirlenen borç tutarı için borçlunun dairesine diğer kat malikleri lehine kanuni ipotek tescil ettirilebilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Aidat uyuşmazlıklarında dava açmadan önce arabulucuya başvurmak zorunludur (icra takibi bu zorunluluğun dışındadır).",
+        "Bir malikin kusuruyla doğan gider için diğerleri o malike rücu edebilir.",
+        "Daire alırken birikmiş aidat borcu olup olmadığını yöneticiden yazılı olarak öğrenin."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "KMK m.20, 22, 37; HUAK m.18/B.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kat-malikleri-kurulu-yonetim-plani-ve-yonetici",
+     "title": "Kat malikleri kurulu, yönetim planı ve yönetici",
+     "summary": "Binayı kat malikleri kurulu yönetir; yönetim planı bütün malikleri bağlayan bir sözleşmedir. Sekiz veya daha fazla bağımsız bölüm varsa yönetici atanması zorunludur.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Toplantı.** Kurul yılda en az bir kez, yönetim planında yazan zamanda; yazmıyorsa her yılın ocak ayında toplanır. Önemli bir sebep varsa yönetici, denetçi veya maliklerin üçte biri, en az 15 gün önceden çağrıyla olağanüstü toplantı isteyebilir.",
+        "**Yeter sayı.** İlk toplantı, maliklerin sayı ve arsa payı bakımından yarısından fazlasıyla yapılır. Sağlanamazsa ikinci toplantı en geç 15 gün sonra yapılır (iki toplantı arası en az 7 gün) ve katılanların salt çoğunluğuyla karar alınır. Kanunda özel çoğunluk aranan işler saklıdır.",
+        "**Karar defteri.** Kararlar noter onaylı deftere yazılır; karşı oy verenler sebebini yazarak imzalar.",
+        "**İtiraz.** Toplantıya katılıp karşı oy veren malik karar tarihinden itibaren 1 ay içinde; katılmayan malik kararı öğrenmeden itibaren 1 ay ve her hâlde karar tarihinden itibaren 6 ay içinde sulh hukuk mahkemesinde iptal davası açabilir.",
+        "**Yönetim planını değiştirme.** Bütün kat maliklerinin beşte dördünün oyu gerekir.",
+        "**Yönetici.** Maliklerin hem sayı hem arsa payı çoğunluğuyla, her yıl yeniden atanır; maliklere karşı vekil gibi sorumludur. Anlaşılamazsa sulh hukuk mahkemesi yönetici atar."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Toplantıda karara itiraz edecekseniz deftere karşı oyunuzu ve sebebini yazdırın; aksi hâlde dava hakkınızı kaybedebilirsiniz.",
+        "Yöneticinin adı ve adresinin bina girişine asılması zorunludur.",
+        "Yöneticinin görevleri arasında aidat toplamak, binayı sigorta ettirmek, asansör bakımlarını yaptırmak ve borçlulara karşı takip yapmak vardır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "KMK m.28, 29, 30, 32, 33, 34, 35, 38.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "ortak-alanlar-ve-tadilat",
+     "title": "Ortak alanlar ve tadilat",
+     "summary": "Temeller, taşıyıcı sistem, çatı, merdiven, asansör, avlu gibi yerler kanunen ortak yerdir; hiçbir malik bunları kendine ayıramaz. Ortak yerde inşaat, onarım, tesis yapmak veya cepheyi farklı renge boyamak için bütün kat maliklerinin beşte dördünün yazılı rızası gerekir.",
+     "sections": [
+      {
+       "heading": "Hangi işe hangi karar gerekir?",
+       "table": {
+        "headers": [
+         "İşlem",
+         "Gereken karar"
+        ],
+        "rows": [
+         [
+          "Ortak yerde inşaat, onarım, tesis, farklı renkte dış boya",
+          "Bütün kat maliklerinin 4/5'inin yazılı rızası"
+         ],
+         [
+          "Ortak yerleri daha kullanışlı hâle getiren yenilik ve ilaveler",
+          "Sayı ve arsa payı çoğunluğu"
+         ],
+         [
+          "Isı yalıtımı, yakıt dönüşümü, merkezi/bireysel ısınmaya geçiş",
+          "Sayı ve arsa payı çoğunluğu (2.000 m² ve üzeri binada merkeziden bireysele geçiş: oybirliği)"
+         ],
+         [
+          "Engelli bir malik için zorunlu tadilat",
+          "Sayı ve arsa payı çoğunluğu; 3 ayda karar çıkmazsa komisyon raporuyla proje değişikliği"
+         ],
+         [
+          "Dış duvar, çatı veya damın reklam için kiralanması, arsanın bölünmesi gibi tasarruflar",
+          "Oybirliği"
+         ],
+         [
+          "Bağlantılı iki dairenin ortak duvarında anayapıya zarar vermeyen değişiklik",
+          "İki malikin ortak rızası"
+         ]
+        ]
+       }
+      },
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Kendi dairenizde.** Anayapıya (kolon, kiriş, perde duvar) zarar verecek değişiklik yapamazsınız.",
+        "**Acil güçlendirme.** Ortak yerdeki bir bozukluğun binaya zarar verdiği ve acil onarım ya da güçlendirme gerektiği mahkemece tespit edilirse, projesine uygun onarım için malik rızası aranmaz.",
+        "**Kullanım hakkı.** Teras, garaj, çamaşırhane gibi ortak yerlerde kullanım, aksine sözleşme yoksa arsa payı oranındadır.",
+        "**Aykırılık hâlinde.** İzinsiz yapılan değişikliğin eski hâle getirilmesi sulh hukuk mahkemesinden istenebilir; önce arabulucuya başvurulur."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Balkonun dış duvarı ve cephesi ortak yer niteliğindedir; balkon kapatma gibi değişiklikler için proje, yönetim planı ve 4/5 rıza şartına bakın.",
+        "Yazılı rızayı toplarken o tarihteki tapu maliklerinden imza alın.",
+        "Kusurla verilen zarardan malik diğer maliklere karşı sorumludur."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "KMK m.4, 16, 19, 42, 45; HUAK m.18/B.",
+     "pro": true,
+     "freeSections": 1,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "komsuluk-ve-dairenin-kullanim-amaci",
+     "title": "Komşuluk ve dairenin kullanım amacı",
+     "summary": "Kat malikleri ve kiracılar birbirini rahatsız etmemek, haklarını çiğnememek ve yönetim planına uymak zorundadır. Tapuda \"mesken\" yazan bir dairede bar, lokanta, dükkân, imalathane gibi yerler ancak kat malikleri kurulunun oybirliğiyle açılabilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Herkes bağlı.** Komşuluk kuralları kiracılar ve dairede sürekli oturanlar için de geçerlidir; uymayanlar malikle birlikte sorumlu olur.",
+        "**Yasak kullanımlar.** Mesken, iş veya ticaret yeri olarak kayıtlı bölümlerde hastane, klinik, poliklinik, ecza laboratuvarı açılamaz (muayenehaneler hariç).",
+        "**Oybirliği gereken kullanımlar.** Meskende eğlence ve toplantı yerleri (kahvehane, bar, kulüp), gıda yerleri (fırın, lokanta, pastane) ve imalathane, dükkân, galeri gibi yerler için oybirliği gerekir.",
+        "**Hâkimin müdahalesi.** Komşusunun ya da kiracının yükümlülüklerini yerine getirmemesinden zarar gören malik sulh hukuk mahkemesine başvurabilir; hâkim kısa bir süre vererek önlem alınmasına karar verir. Karara uymayana idari para cezası verilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Yönetim planında yalnız konut kullanımı öngörülmüşse dairede ofis veya işyeri açmak plana aykırıdır.",
+        "Gürültü, koku gibi rahatsızlıkları tarihli olarak kayıt altına alın; mahkeme keşif ve bilirkişi incelemesi yapabilir.",
+        "Bu uyuşmazlıklarda da dava öncesi arabuluculuk zorunludur."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "KMK m.18, 24, 28, 33; HUAK m.18/B.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "insaat-donusum",
+   "title": "İnşaat ve kentsel dönüşüm",
+   "subtitle": "Kat karşılığı inşaat, riskli yapı ve iskân",
+   "icon": "hammer",
+   "topics": [
+    {
+     "id": "kat-karsiligi-insaat-sozlesmesi",
+     "title": "Kat karşılığı inşaat sözleşmesi",
+     "summary": "Arsa sahibinin arsadan pay vermesi karşılığında müteahhidin bina yaptığı sözleşmedir. Taşınmaz devrini içerdiği için noterde düzenleme şeklinde yapılması gerekir; hisseli arsada (kentsel dönüşüm dışında) bütün paydaşların katılımı şarttır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Şekil.** Sözleşme noterde düzenleme şeklinde yapılır; taraflardan biri isterse tapuya şerh verilir. Şerh 5 yıl içinde satış veya tescil yapılmazsa resen silinir.",
+        "**Tüm paydaşlar.** Paylı arsada yapı işleri ve malın tamamı üzerindeki tasarruflar, aksi oybirliğiyle kararlaştırılmadıkça bütün paydaşların kabulüne bağlıdır. Riskli yapılar 6306 kapsamında bunun istisnasıdır.",
+        "**Hukuki niteliği.** Müteahhit açısından eser (inşaat) sözleşmesi, arsa sahibi açısından pay devri vaadi içeren karma bir sözleşmedir.",
+        "**Bağımsız bölüm paylaşımı.** Hangi dairelerin kime kalacağı sözleşmede belirlenmişse, kat irtifakı ve kat mülkiyeti işlemleri müteahhidin talebiyle ilgili idare tarafından yapılabilir."
+       ]
+      },
+      {
+       "heading": "Kontrol listesi",
+       "checklist": [
+        "Bütün tapu malikleri sözleşmeye katıldı mı?",
+        "Size kalacak dairelerin numarası, katı, cephesi ve net/brüt alanı yazılı mı?",
+        "İnşaata başlama ve teslim tarihleri ile gecikme hâlinde ödenecek tazminat (aylık kira karşılığı vb.) açık mı?",
+        "Arsa payı devrinin inşaat seviyesine göre kademeli yapılması öngörülmüş mü?",
+        "Müteahhidin teminatı (banka teminat mektubu, ipotek) var mı?",
+        "Yıkım ve inşaat süresince kira yardımı kimden, ne kadar?",
+        "İskân, abonelikler ve kat mülkiyetine geçiş masraflarını kim üstleniyor?",
+        "Malzeme ve işçilik nitelikleri (teknik şartname) eklenmiş mi?"
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.692, 706; TBK m.237, 470 vd.; Tapu K. m.26; KMK m.10/5; Noterlik K. m.89.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "muteahhit-geciktiginde-veya-ayipli-yaptiginda",
+     "title": "Müteahhit geciktiğinde veya ayıplı yaptığında",
+     "summary": "Müteahhit işe zamanında başlamaz veya işi öyle geciktirir ki teslim tarihine yetişemeyeceği açıkça anlaşılırsa, arsa sahibi teslim gününü beklemeden sözleşmeden dönebilir. Bina ayıplı teslim edilirse onarım, bedel indirimi veya ağır hâllerde dönme hakları doğar.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Gecikme.** İşin yetişmeyeceği açıkça anlaşılırsa sözleşmeden dönme hakkı doğar; bunun için teslim tarihinin geçmesi beklenmez.",
+        "**Seçimlik haklar.** Temerrüde düşen müteahhide süre verilir; süre sonunda arsa sahibi ya işin yapılmasını ve gecikme tazminatını ister ya da bundan vazgeçip sözleşmeden döner veya zararının giderilmesini ister.",
+        "**Seçimin sonucu.** Sözleşmeden dönülürse taraflar karşılıklı edimlerini geri ister; bu durumda sözleşmedeki gecikme tazminatı yerine, sözleşmenin hükümsüz kalmasından doğan zarar istenir. Hangi yolu seçeceğinize bu sonucu bilerek karar verin.",
+        "**Yapım sırasında ayıp.** İşin ayıplı yapılacağı açıkça görülüyorsa, müteahhide süre verilip düzeltilmezse işin masrafı müteahhide ait olmak üzere başkasına yaptırılacağı ihtar edilebilir.",
+        "**Teslimden sonra ayıp.** Teslim alınca bina incelenir ve ayıplar uygun sürede bildirilir. Ücretsiz onarım, bedel indirimi veya kullanılamayacak ölçüde ayıplıysa dönme istenebilir; ancak arsa üzerine yapılan binanın sökülmesi aşırı zarar doğuracaksa dönme hakkı kullanılamaz."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Dönme veya fesih bildirimini noter aracılığıyla, gerekçesiyle yapın; sözleşmedeki fesih şartlarını kontrol edin.",
+        "Tek taraflı fesih tartışmalı olabilir; uyuşmazlıkta mahkemeden fesih istenmesi gerekebilir.",
+        "İnşaatın seviyesini tarihli fotoğraf ve tespit (delil tespiti) ile belgeleyin."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TBK m.123, 125, 473, 474, 475.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "riskli-yapi-tespiti",
+     "title": "Riskli yapı tespiti",
+     "summary": "Ekonomik ömrünü tamamlamış ya da yıkılma veya ağır hasar riski taşıdığı teknik verilerle tespit edilen bina \"riskli yapı\"dır. Tespiti öncelikle malikler, masrafı kendilerine ait olmak üzere Kentsel Dönüşüm Başkanlığınca lisanslandırılmış kuruluşlara yaptırır; sonuca 15 gün içinde itiraz edilebilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Başvuru.** Herhangi bir malik veya kanuni temsilcisi lisanslı kuruluşa başvurabilir; tespit için tüm maliklerin onayı gerekmez. Başkanlık veya belediye de tespiti resen yapabilir ya da maliklerden süre vererek isteyebilir.",
+        "**Engellenirse.** Tespitin engellenmesi hâlinde mülki amirin izniyle kolluk eşliğinde kapalı alanlar açtırılarak tespit yapılabilir.",
+        "**Tapuya bildirim.** Riskli yapı, tespitten itibaren en geç 10 iş günü içinde tapunun beyanlar hanesine işlenmek üzere bildirilir; tutanak binaya asılır, maliklere e-Devlet'ten bildirilir ve muhtarlıkta 15 gün ilan edilir. İlanın son günü tebliğ edilmiş sayılır.",
+        "**İtiraz.** Maliklerce 15 gün içinde itiraz edilebilir; itirazları üniversite öğretim üyeleri ve Bakanlık/Başkanlık uzmanlarından oluşan teknik heyet karara bağlar."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "İtiraz süresi kısadır; muhtarlık ilanını ve e-Devlet bildirimlerinizi takip edin.",
+        "Riskli yapı kararı kesinleşince yıkım süreci ve dönüşüm kararları gündeme gelir (sonraki konu)."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.2, 3.",
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kentsel-donusumde-karar-imzalamayanin-payi-ve-kira-yardimi",
+     "title": "Kentsel dönüşümde karar, imzalamayanın payı ve kira yardımı",
+     "summary": "Riskli yapılarda yeniden yapım, kat karşılığı sözleşme, payların satışı gibi kararlar, hisseleri oranında paydaşların salt çoğunluğuyla alınır. Karara katılmayanların arsa payları, rayiç değerin altında olmamak üzere açık artırmayla anlaşan paydaşlara satılır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Yıkım süresi.** Riskli yapı maliklerine yıkım için en fazla 90 gün süre verilir; malikler yıktırmazsa yıkım idari makamlarca yaptırılır.",
+        "**Karar.** Paydaş olup olmadıklarına bakılmaksızın, hisseleri oranında salt çoğunluk yeterlidir. Karar tutanağı veya vekâletname/sözleşme örnekleri idareye sunulabilir.",
+        "**Katılmayanlara bildirim.** Karar ve anlaşma şartları, katılmayan maliklere noter aracılığıyla veya muhtarlıkta 15 gün ilanla bildirilir. Bildirimden itibaren 15 gün içinde teklif kabul edilmezse paylar satışa çıkarılır.",
+        "**Payların satışı.** Rayiç değer Başkanlıkça tespit ettirilir; paylar bu değerden az olmamak üzere açık artırmayla anlaşan paydaşlara, alıcı çıkmazsa anlaşmayı kabul eden üçüncü kişilere satılır.",
+        "**Kira yardımı.** Anlaşmayla tahliye edilen yapıların maliklerine, kiracılarına ve yapıda oturan sınırlı ayni hak sahiplerine geçici konut veya kira yardımı ve yapım için yardım yapılabilir; usul ve tutarlar Cumhurbaşkanınca belirlenir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Bina yıkılmadan önce kat malikleri kurulu kuralları, yıkıldıktan sonra dönüşüm kuralları uygulanır.",
+        "Size teklif edilen yeni dairenin konumunu, büyüklüğünü ve şartlarını yazılı olarak isteyin; 15 günlük süreyi kaçırmayın.",
+        "Dönüşüm kapsamındaki işlemler için harç ve döner sermaye istisnaları vardır; tapuda sorun.",
+        "Kiracıysanız kira yardımı başvurusu için belediye veya Başkanlıkla iletişime geçin."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.5, 6, 7 (7471 s. K. ile değişik).",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "iskan-kacak-yapi-ve-yapi-kayit-belgesi",
+     "title": "İskân, kaçak yapı ve yapı kayıt belgesi",
+     "summary": "Bina bittiğinde kullanılabilmesi için belediyeden yapı kullanma izni (iskân) alınması zorunludur. Ruhsatsız veya ruhsata aykırı yapılar mühürlenir, aykırılık bir ay içinde giderilmezse yıkım kararı verilir. 2018 imar barışıyla verilen yapı kayıt belgesi, yapı yeniden yapılana veya dönüşüme girene kadar geçerlidir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**İskân başvurusu.** Malik başvurur; belediye yapının ruhsat ve eklerine uygunluğunu inceler ve 30 gün içinde sonuçlandırmak zorundadır.",
+        "**Kaçak yapı tespiti.** Ruhsatsız veya ruhsata aykırı yapı mühürlenir, inşaat durdurulur ve aykırılık 7 gün içinde tapunun beyanlar hanesine işlenmek üzere bildirilir. Aykırılık giderildiği bildirilmeden bu kayıt kaldırılamaz.",
+        "**Bir aylık süre.** Yapı sahibi bir ay içinde yapıyı ruhsata uygun hâle getirmez veya ruhsat almazsa ruhsat iptal edilir, yapı encümen kararıyla yıktırılır ve masraf sahibinden alınır.",
+        "**Yapı kayıt belgesi.** 31.12.2017'den önce yapılmış yapılar için 2018'de verilen belgeyle o yapılar hakkındaki yıkım kararları ve tahsil edilemeyen para cezaları iptal edilir; geçici abonelik bağlanabilir. Başvuru süresi sona ermiştir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Yapı kayıt belgesi yapıyı kalıcı olarak \"yasal\" hâle getirmez; yapı yenilenirken güncel imar kuralları uygulanır.",
+        "Tapunun beyanlar hanesinde imar aykırılığı kaydı olan bir daireyi almadan önce durumu belediyeden araştırın.",
+        "İskânsız yapılarda kredi, abonelik ve kat mülkiyetine geçişte sorun çıkabilir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "İmar K. m.30, 32, 42, geçici m.16.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ortak-mulkiyet",
+   "title": "Ortak mülkiyet ve aile konutu",
+   "subtitle": "Hisseli tapu, izale-i şuyu, şufa ve aile konutu",
+   "icon": "person.2",
+   "topics": [
+    {
+     "id": "hisseli-tapu-payli-ve-elbirligi-mulkiyet",
+     "title": "Hisseli tapu: paylı ve elbirliği mülkiyet",
+     "summary": "Paylı mülkiyette her ortağın belli bir payı vardır (örneğin 1/4) ve bu payı tek başına satabilir, ipotek ettirebilir. Elbirliği mülkiyetinde (en sık örneği paylaştırılmamış miras) ortakların belirli payı yoktur; kural olarak her işlem için oybirliği gerekir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Paylı mülkiyet.** Aksi belirlenmedikçe paylar eşit sayılır. Her paydaş kendi payı üzerinde malik gibi hareket eder; pay devredilebilir, rehnedilebilir, haczedilebilir.",
+        "**Olağan yönetim.** Küçük onarımlar gibi olağan işleri her paydaş tek başına yapabilir.",
+        "**Önemli yönetim.** Kiraya verme, kira sözleşmesini feshetme, olağanı aşan bakım ve onarım gibi işler pay ve paydaş çoğunluğuyla yapılır; eşitlik hâlinde hâkim karar verir.",
+        "**Olağanüstü işler.** Malın amacını değiştirmek, olağanı aşan yapı işleri (örneğin binayı yıkıp yeniden yapmak) ve malın tamamını satmak bütün paydaşların kabulünü gerektirir.",
+        "**Anlaşma ve şerh.** Paydaşlar kullanım ve yönetim için oybirliğiyle farklı kurallar koyabilir; imzaları noterce onaylanan anlaşma tapuya şerh verilebilir.",
+        "**Elbirliği mülkiyeti.** Mirasçılar, miras paylaştırılana kadar elbirliğiyle maliktir; yönetim ve tasarruf için oybirliği gerekir. Mirasçılar anlaşarak paylı mülkiyete geçebilir veya mirası paylaşabilir; anlaşamazlarsa paylaşma mahkemeden istenebilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Hisseli arsa veya tarla alırken hangi bölümün size ait olduğu tapudan anlaşılmaz; \"fiilî kullanım\" tapuda hak doğurmaz.",
+        "Payınızı yabancıya satarsanız diğer paydaşların önalım hakkı doğar.",
+        "Anlaşmazlıkta çözüm yolu çoğunlukla ortaklığın giderilmesidir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.688–692, 701–702.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "ortakligin-giderilmesi-izale-i-suyu",
+     "title": "Ortaklığın giderilmesi (izale-i şuyu)",
+     "summary": "Paydaşlardan her biri, ortaklığı sürdürme yükümlülüğü yoksa malın paylaşılmasını isteyebilir. Anlaşılamazsa hâkim önce malın aynen bölünmesine bakar; bölünmesi uygun değilse ya da önemli değer kaybı doğuracaksa açık artırmayla satışına ve bedelin paylaştırılmasına karar verir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Önce anlaşma.** Paydaşlar malı kendi aralarında bölüşebilir veya pazarlıkla satıp bedeli paylaşabilir.",
+        "**Arabuluculuk.** Anlaşma olmazsa dava öncesi arabulucuya başvurmak zorunludur.",
+        "**Aynen taksim.** Hâkim mümkünse malı parçalara ayırır; değerler denk değilse eksik parçaya para eklenerek denkleştirme yapılır.",
+        "**Kat mülkiyetiyle paylaşma.** Kat mülkiyetine elverişli bir binada paydaşlardan biri isterse, hâkim binayı kat mülkiyetine çevirip daireleri paydaşlara ayrı ayrı verebilir.",
+        "**Satış.** Bölme uygun değilse taşınmaz açık artırmayla satılır. Satışın yalnız paydaşlar arasında yapılması için bütün paydaşların rızası gerekir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Paylaşma isteme hakkı, sözleşmeyle en çok 10 yıl sınırlandırılabilir; taşınmazlarda bu sözleşme resmî şekle bağlıdır ve tapuya şerh verilebilir.",
+        "Uygun olmayan zamanda paylaşma istenemez.",
+        "Açık artırmada fiyat piyasa değerinin altında kalabilir; dava öncesi paydaşlarla satış veya pay devri seçeneklerini değerlendirin.",
+        "Kentsel dönüşüm süreci devam eden taşınmazlarda dava sonucu bu süreçten etkilenebilir."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.698–699; KMK m.10/7; HUAK m.18/B.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "onalim-sufa-hakki",
+     "title": "Önalım (şufa) hakkı",
+     "summary": "Hisseli bir taşınmazda paydaşlardan biri payını üçüncü bir kişiye satarsa, diğer paydaşlar alıcıya karşı dava açarak payı satın alma hakkına sahiptir. Hak, satışın noter aracılığıyla bildirilmesinden itibaren 3 ay ve her hâlde satıştan itibaren 1 yıl içinde kullanılmazsa düşer.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Bildirim.** Satış, alıcı veya satıcı tarafından diğer paydaşlara noter aracılığıyla bildirilir.",
+        "**Dava.** Önalım hakkı alıcıya karşı dava açılarak kullanılır; dava öncesi arabuluculuk gerekip gerekmediğini kontrol edin.",
+        "**Rayiç bedel (2025 değişikliği).** Payın rayiç bedelini hâkim gecikmeden belirler. Önalım hakkı sahibi, bu rayiç bedeli ve alıcıya düşen tapu giderlerini hâkimin verdiği kesin süre içinde nakden yatırmak zorundadır; yatırmazsa pay adına tescil edilmez.",
+        "**Kullanılamayan hâller.** Cebrî artırmayla yapılan satışlarda ve 2886 sayılı Devlet İhale Kanunu kapsamındaki satışlarda önalım hakkı kullanılamaz.",
+        "**Feragat.** Önalım hakkından genel olarak feragat resmî şekilde yapılıp tapuya şerh verilmelidir; belirli bir satışta hakkı kullanmamak ise yazılı olarak bildirilebilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "24.12.2025 tarihli 7571 sayılı Kanunla depo edilecek bedel tapudaki satış bedeli değil, hâkimin belirleyeceği rayiç bedel olmuştur; eski bilgilere itibar etmeyin.",
+        "3 aylık süre noter bildiriminden işler; bildirim yapılmamışsa satıştan itibaren 1 yıllık üst sınır geçerlidir.",
+        "Kat mülkiyetine geçmiş binalarda daireler bağımsız mülkiyet olduğundan daire satışında önalım hakkı doğmaz."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.732, 733, 734 (7571 s. K. ile değişik), 735; TBK m.237/3.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "aile-konutu-ve-esin-rizasi",
+     "title": "Aile konutu ve eşin rızası",
+     "summary": "Eşlerden biri, diğerinin açık rızası olmadan aile konutunu satamaz, ipotek ettiremez veya aile konutuyla ilgili kira sözleşmesini feshedemez. Tapuda malik olmayan eş, tapu müdürlüğünden aile konutu şerhi konulmasını isteyebilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Açık rıza.** Satış, bağış, ipotek gibi işlemlerde malik olmayan eşin açık rızası gerekir.",
+        "**Şerh.** Malik olmayan eş, tapu müdürlüğüne başvurarak aile konutu şerhi koydurabilir; şerh, eve ilişkin işlemlerde tapu görevlisini ve alıcıyı uyarır.",
+        "**Rıza verilmezse.** Rızayı sağlayamayan veya haklı sebep olmadan rıza verilmeyen eş hâkimin müdahalesini isteyebilir.",
+        "**Kiralık aile konutu.** Aile konutu kira ile tutulmuşsa, sözleşmenin tarafı olmayan eş ev sahibine bildirimde bulunarak sözleşmenin tarafı olur ve diğer eşle birlikte sorumlu hâle gelir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Kanundaki rıza şartı, tapuda şerh olmasa da geçerlidir; ancak şerh koydurmak uyuşmazlığı önlemenin en güvenli yoludur.",
+        "Evli birinden konut satın alıyorsanız, evin aile konutu olup olmadığını sorun ve gerekiyorsa eşin rızasını tapuda alın.",
+        "Rızası alınmadan devredilen aile konutu için eşin açacağı davalar aile mahkemesinde görülür."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "TMK m.194.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Ada / parsel",
+   "definition": "Ada, yollarla çevrili toprak bütünü; parsel, ada içindeki ve tapuda ayrı numarayla kayıtlı her bir arazi parçası",
+   "basis": "Kadastro K.; İmar K."
+  },
+  {
+   "term": "Anagayrimenkul",
+   "definition": "Kat mülkiyetine konu binanın arsasıyla birlikte bütünü",
+   "basis": "KMK m.2/a"
+  },
+  {
+   "term": "Arsa payı",
+   "definition": "Her bağımsız bölüme düşen, arsadaki ortak mülkiyet payı; aidat ve birçok oylama buna göre yapılır",
+   "basis": "KMK m.2/d"
+  },
+  {
+   "term": "Bağımsız bölüm",
+   "definition": "Binada ayrı ve başlı başına kullanılabilen, kendi tapusu olan bölüm (daire, dükkân)",
+   "basis": "KMK m.2/a"
+  },
+  {
+   "term": "Beyan (tapuda)",
+   "definition": "Tapunun \"beyanlar\" hanesine yazılan bilgi notu; yönetim planı, proje, aile konutu gibi",
+   "basis": "TMK; Tapu Sicili Tüzüğü"
+  },
+  {
+   "term": "Bağlanma parası",
+   "definition": "Sözleşmenin yapıldığını kanıtlamak için verilen para; aksi kararlaştırılmadıkça bedelden düşülür",
+   "basis": "TBK m.177"
+  },
+  {
+   "term": "Cayma parası",
+   "definition": "Sözleşmeden vazgeçme hakkı için verilen para; veren caymak isterse parayı bırakır, alan cayarsa iki katını öder",
+   "basis": "TBK m.178"
+  },
+  {
+   "term": "Çekme mesafesi",
+   "definition": "Binanın parsel sınırlarından bırakması gereken en az uzaklık",
+   "basis": "Planlı Alanlar İmar Yön."
+  },
+  {
+   "term": "DASK",
+   "definition": "Konutlar için zorunlu deprem sigortası; tapu işlemlerinde poliçe aranır",
+   "basis": "6305 s. Afet Sigortaları K."
+  },
+  {
+   "term": "Döner sermaye ücreti",
+   "definition": "Tapu işlemi için TKGM'ye ödenen hizmet bedeli; harçtan ayrıdır",
+   "basis": "6083 s. K. m.8"
+  },
+  {
+   "term": "Emlak vergisi değeri",
+   "definition": "Belediyenin her yıl belirlediği vergi değeri; tapuda beyan edilen bedel bunun altında olamaz",
+   "basis": "1319 s. K. m.29; Harçlar K. m.63"
+  },
+  {
+   "term": "Emsal (KAKS)",
+   "definition": "Parselde yapılabilecek toplam inşaat alanının parsel alanına oranı; KAKS 1,5 ise 1.000 m² parselde 1.500 m² yapılabilir",
+   "basis": "Planlı Alanlar İmar Yön."
+  },
+  {
+   "term": "Eklenti",
+   "definition": "Bir bağımsız bölüme özgülenmiş, onun dışındaki yer (kömürlük, depo, otopark yeri)",
+   "basis": "KMK m.2/a"
+  },
+  {
+   "term": "hmax",
+   "definition": "İmar planında izin verilen en yüksek bina yüksekliği",
+   "basis": "Planlı Alanlar İmar Yön."
+  },
+  {
+   "term": "Hisseli tapu",
+   "definition": "Taşınmazın birden çok kişiye paylı ait olduğu tapu; hangi kısmın kime ait olduğu belli değildir",
+   "basis": "TMK m.688 vd."
+  },
+  {
+   "term": "İfraz",
+   "definition": "Bir parselin birden fazla parsele bölünmesi",
+   "basis": "İmar K. m.15–16"
+  },
+  {
+   "term": "İmar durumu",
+   "definition": "Belediyenin bir parsel için verdiği, yapılaşma koşullarını (emsal, kat, çekme) gösteren belge",
+   "basis": "İmar K.; Planlı Alanlar İmar Yön."
+  },
+  {
+   "term": "İmar planı",
+   "definition": "Arazinin nasıl kullanılacağını gösteren plan; nazım plan genel çerçeve, uygulama planı ayrıntıyı belirler",
+   "basis": "İmar K. m.8"
+  },
+  {
+   "term": "İntifa hakkı",
+   "definition": "Başkasına ait taşınmazı kullanma ve gelirini alma hakkı; genellikle ömür boyu kurulur",
+   "basis": "TMK m.794 vd."
+  },
+  {
+   "term": "İpotek",
+   "definition": "Borca güvence olarak taşınmazın rehnedilmesi; borç ödenmezse taşınmaz satılabilir",
+   "basis": "TMK m.881 vd."
+  },
+  {
+   "term": "İrtifak hakkı",
+   "definition": "Bir taşınmazın başka bir taşınmaz ya da kişi yararına sınırlanması (geçit hakkı gibi)",
+   "basis": "TMK m.779 vd."
+  },
+  {
+   "term": "İskân (yapı kullanma izni)",
+   "definition": "Bina bitince belediyenin verdiği, binanın ruhsat ve projeye uygun yapıldığını gösteren izin",
+   "basis": "İmar K. m.30"
+  },
+  {
+   "term": "Kat irtifakı",
+   "definition": "Henüz bitmemiş ya da iskânı alınmamış binada, ileride kat mülkiyetine dönüşecek hak",
+   "basis": "KMK m.2/c, m.14"
+  },
+  {
+   "term": "Kat mülkiyeti",
+   "definition": "İskânı alınmış binada bağımsız bölüm üzerindeki tam mülkiyet; iskân sonrası kat irtifakı resen kat mülkiyetine çevrilir",
+   "basis": "KMK m.2/a, m.10"
+  },
+  {
+   "term": "Müstakil tapu",
+   "definition": "Taşınmazın tamamının tek kişiye ya da sınırları belli bir bölüme ait olduğu tapu"
+  },
+  {
+   "term": "Parselasyon",
+   "definition": "Belediyenin imar planına göre arazileri birleştirip yeniden ada ve parsellere ayırması; bu sırada düzenleme ortaklık payı (DOP, en çok %45) kesilir",
+   "basis": "İmar K. m.18"
+  },
+  {
+   "term": "Şerh",
+   "definition": "Tapuya yazılan ve üçüncü kişilere karşı da ileri sürülebilen kayıt (satış vaadi, kira, haciz şerhi)",
+   "basis": "TMK m.1009 vd.; Tapu K. m.26"
+  },
+  {
+   "term": "Şufa (önalım)",
+   "definition": "Hisseli taşınmazda bir paydaş payını yabancıya satarsa, diğer paydaşların aynı şartlarla satın alma hakkı",
+   "basis": "TMK m.732–735"
+  },
+  {
+   "term": "TAKS",
+   "definition": "Binanın oturduğu taban alanının parsel alanına oranı",
+   "basis": "Planlı Alanlar İmar Yön."
+  },
+  {
+   "term": "Tevhit",
+   "definition": "Birden fazla parselin tek parselde birleştirilmesi",
+   "basis": "İmar K. m.15–16"
+  }
+ ],
+ "market": {
+  "asOf": "31.10.2026",
+  "note": "Göstergeler her ay TCMB ve TÜİK bültenlerinden güncellenir. Her kartta kaynak ve dönem yazar.",
+  "indicators": [
+   {
+    "id": "kfe-ist",
+    "scope": "istanbul",
+    "title": "Konut fiyat endeksi",
+    "value": "%26,8",
+    "detail": "Yıllık artış · endeks 230,9 · aylık %2,0",
+    "period": "Eylül 2026",
+    "source": "TCMB",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "free": true
+   },
+   {
+    "id": "ykke-ist",
+    "scope": "istanbul",
+    "title": "Yeni kiracı kira endeksi",
+    "value": "%3,5",
+    "detail": "Aylık artış (İstanbul)",
+    "period": "Eylül 2026",
+    "source": "TCMB",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "free": true
+   },
+   {
+    "id": "satis-ist",
+    "scope": "istanbul",
+    "title": "Konut satışları",
+    "value": "20.426",
+    "detail": "Türkiye toplamının %16,0'ı",
+    "period": "Ağustos 2026",
+    "source": "TÜİK",
+    "sourceUrl": "https://data.tuik.gov.tr",
+    "free": true
+   },
+   {
+    "id": "yabanci-ist",
+    "scope": "istanbul",
+    "title": "Yabancılara konut satışı",
+    "value": "561",
+    "detail": "Türkiye'de ilk sıra · Ocak–Eylül toplamı 5.033",
+    "period": "Eylül 2026",
+    "source": "TÜİK",
+    "sourceUrl": "https://data.tuik.gov.tr",
+    "free": true
+   },
+   {
+    "id": "kfe-tr",
+    "scope": "turkiye",
+    "title": "Konut fiyat endeksi",
+    "value": "%22,3",
+    "detail": "Yıllık artış · endeks 239,4 (2023=100) · reel −%5,7",
+    "period": "Eylül 2026",
+    "source": "TCMB",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "free": true
+   },
+   {
+    "id": "ykke-tr",
+    "scope": "turkiye",
+    "title": "Yeni kiracı kira endeksi",
+    "value": "%26,6",
+    "detail": "Yıllık artış · aylık %2,1",
+    "period": "Eylül 2026",
+    "source": "TCMB",
+    "sourceUrl": "https://evds3.tcmb.gov.tr",
+    "free": true
+   },
+   {
+    "id": "satis-tr",
+    "scope": "turkiye",
+    "title": "Konut satışları",
+    "value": "142.390",
+    "detail": "Yıllık −%9,3 · ilk el 51.519 · ikinci el 90.871 · ipotekli 23.397",
+    "period": "Eylül 2026",
+    "source": "TÜİK",
+    "sourceUrl": "https://data.tuik.gov.tr",
+    "free": true
+   },
+   {
+    "id": "insaat-tr",
+    "scope": "turkiye",
+    "title": "İnşaat maliyet endeksi",
+    "value": "%29,59",
+    "detail": "Yıllık artış · bina inşaatı %28,94 · aylık %2,04",
+    "period": "Ağustos 2026",
+    "source": "TÜİK",
+    "sourceUrl": "https://data.tuik.gov.tr",
+    "free": true
+   },
+   {
+    "id": "kira-sinir",
+    "scope": "turkiye",
+    "title": "Kira artış üst sınırı",
+    "value": "%31,49",
+    "detail": "TÜFE 12 aylık ortalama · Ekim 2026 yenilemeleri",
+    "period": "Eylül 2026 TÜFE",
+    "source": "TÜİK",
+    "sourceUrl": "https://data.tuik.gov.tr",
+    "free": true
+   }
+  ],
+  "series": []
+ },
+ "params": {
+  "year": 2026,
+  "tapuHarciOrani": 0.02,
+  "donerSermaye": {
+   "gosterge": 2227,
+   "varsayilanKatsayi": 3,
+   "not": "Döner sermaye ücreti gösterge tutarı × taşınmazın bulunduğu yerin yöresel katsayısıdır. Katsayı ilçeye ve mahalleye göre değişir; kesin tutarı Web Tapu başvurunuzda görebilirsiniz.",
+   "kaynak": "6083 s. K. m.8 ve TKGM 2026 tarife cetveli"
+  },
+  "kiraOranlari": [
+   {
+    "ay": "Ekim 2026",
+    "oran": 31.49
+   },
+   {
+    "ay": "Eylül 2026",
+    "oran": 31.79
+   }
+  ],
+  "degerArtis": {
+   "istisna": 150000,
+   "sureYil": 5,
+   "endekslemeEsik": 10,
+   "kaynak": "GVK mük. m.80–81; 332 Sıra No.lu GVK Genel Tebliği"
+  },
+  "gelirVergisiTarifesi": [
+   {
+    "ust": 190000,
+    "oran": 0.15
+   },
+   {
+    "ust": 400000,
+    "oran": 0.2
+   },
+   {
+    "ust": 1000000,
+    "oran": 0.27
+   },
+   {
+    "ust": 5300000,
+    "oran": 0.35
+   },
+   {
+    "ust": null,
+    "oran": 0.4
+   }
+  ],
+  "insaatMaliyet": {
+   "yil": 2026,
+   "kaynak": "2026 Yılı Yapı Yaklaşık Birim Maliyetleri Tebliği (RG 03.02.2026/33157)",
+   "not": "KDV hariç; %15 genel gider ve %10 yüklenici kârı dahil. Arsa, peyzaj ve altyapı giderleri dahil değildir. Resmî yaklaşık maliyettir, piyasa teklifi değildir.",
+   "siniflar": [
+    {
+     "kod": "III-A",
+     "ad": "Apartman tipi konut (3 kata kadar)",
+     "tlm2": 19800,
+     "konut": true
+    },
+    {
+     "kod": "III-B",
+     "ad": "Konut, 3 kat üzeri ve 21,50 m'ye kadar; müstakil/ikiz (bağımsız bölüm 200 m² altı)",
+     "tlm2": 21050,
+     "konut": true
+    },
+    {
+     "kod": "III-C",
+     "ad": "Konut, 21,50–30,50 m; müstakil/ikiz (200–500 m²)",
+     "tlm2": 23400,
+     "konut": true
+    },
+    {
+     "kod": "IV-A",
+     "ad": "Konut, 30,50–51,50 m",
+     "tlm2": 26450,
+     "konut": true
+    },
+    {
+     "kod": "IV-B",
+     "ad": "Konut, 51,50 m üzeri; müstakil/ikiz (500 m² ve üzeri)",
+     "tlm2": 33900,
+     "konut": true
+    },
+    {
+     "kod": "II-C",
+     "ad": "Kırsalda bağ/köy evi (200 m² altı), bungalov",
+     "tlm2": 15100,
+     "konut": true
+    },
+    {
+     "kod": "III-B (ticari)",
+     "ad": "İş merkezi / ticari yapı (3 kata kadar)",
+     "tlm2": 21050,
+     "konut": false
+    },
+    {
+     "kod": "III-C (ticari)",
+     "ad": "İş merkezi / ticari yapı (21,50 m'ye kadar)",
+     "tlm2": 23400,
+     "konut": false
+    },
+    {
+     "kod": "IV-A (ticari)",
+     "ad": "İş merkezi / ticari yapı (30,50 m'ye kadar)",
+     "tlm2": 26450,
+     "konut": false
+    },
+    {
+     "kod": "IV-B (ticari)",
+     "ad": "İş merkezi / ticari yapı (51,50 m'ye kadar)",
+     "tlm2": 33900,
+     "konut": false
+    },
+    {
+     "kod": "V-A (ticari)",
+     "ad": "İş merkezi / ticari yapı (51,50 m üzeri), karma kullanım",
+     "tlm2": 42350,
+     "konut": false
+    },
+    {
+     "kod": "III-A (otopark)",
+     "ad": "Garaj, katlı veya kapalı otopark",
+     "tlm2": 19800,
+     "konut": false
+    }
+   ]
+  },
+  "sinirlar": {
+   "depozitoAy": 3,
+   "yabanciIlceOran": 0.1,
+   "yabanciKisiHektar": 30,
+   "aidatGecikmeAylik": 0.05
+  }
+ },
+ "sources": [
+  {
+   "title": "TCMB Elektronik Veri Dağıtım Sistemi (EVDS)",
+   "url": "https://evds3.tcmb.gov.tr"
+  },
+  {
+   "title": "TÜİK Veri Portalı",
+   "url": "https://data.tuik.gov.tr"
+  },
+  {
+   "title": "Tapu ve Kadastro Genel Müdürlüğü",
+   "url": "https://www.tkgm.gov.tr"
+  },
+  {
+   "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+   "url": "https://csb.gov.tr"
+  },
+  {
+   "title": "Mevzuat Bilgi Sistemi",
+   "url": "https://www.mevzuat.gov.tr"
+  },
+  {
+   "title": "Resmî Gazete",
+   "url": "https://www.resmigazete.gov.tr"
+  }
+ ]
+}
