@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "updatedAt": "31.10.2026",
  "disclaimer": "Emlak Rehberi, taşınmaz alım satımı, kiralama, kat mülkiyeti ve kentsel dönüşüm konularında genel bilgi sunan bağımsız bir rehber uygulamasıdır. Uygulamadaki bilgiler hukuki danışmanlık, hukuki görüş, vergi veya yatırım danışmanlığı değildir ve avukat–müvekkil ilişkisi kurmaz. Hukuki içerik yürürlükteki mevzuattan derlenmiştir; mevzuat ve idari uygulamalar değişebilir. Piyasa verileri TCMB, TÜİK ve ilgili kamu kurumlarının yayımladığı resmî istatistiklerden kaynak gösterilerek alınmıştır; kurumlar verilerin doğruluğu konusunda taahhüt vermez. Hesaplayıcılar tahmini sonuç verir; kesin tutarlar tapu müdürlüğü, vergi dairesi, banka veya ilgili idarece belirlenir. Uygulamanın kullanımından doğabilecek zararlardan geliştirici sorumlu tutulamaz. Somut durumunuz için bir avukata ve ilgili uzmana danışınız. Kurucu: Av. Enes Gündüz. © 2026 Av. Enes Gündüz, tüm hakları saklıdır.",
  "scopeNote": "İlk sürüm İstanbul odaklıdır; diğer iller sonraki güncellemelerle eklenecektir.",
@@ -807,9 +807,349 @@
    ]
   },
   {
+   "id": "kentsel-donusum",
+   "title": "Kentsel dönüşüm",
+   "subtitle": "Süreç, Yarısı Bizden, kira yardımı ve bina tamamlama sigortası",
+   "icon": "building.columns",
+   "topics": [
+    {
+     "id": "kentsel-donusum-sureci-adim-adim",
+     "title": "Kentsel dönüşüm süreci adım adım",
+     "summary": "Riskli yapıda süreç; lisanslı kuruluşa tespit yaptırılmasıyla başlar, tapuya riskli yapı kaydı düşülmesi, maliklerin salt çoğunlukla karar alması, müteahhitle sözleşme, tahliye ve yıkım, ruhsat ve kat irtifakı, inşaat ve iskânla tamamlanır. Kararlar hisseleri oranında salt çoğunlukla alınır; oybirliği gerekmez.",
+     "sections": [
+      {
+       "heading": "Adımlar",
+       "steps": [
+        "**Riskli yapı tespiti.** Herhangi bir malik, Kentsel Dönüşüm Başkanlığınca lisanslandırılmış bir kuruluşa (yapı denetim veya laboratuvar kuruluşu) tespit yaptırır. Masraf, tespiti yaptırana aittir.",
+        "**Tapu kaydı ve ilan.** Sonuç en geç 10 iş günü içinde tapunun beyanlar hanesine işlenmek üzere bildirilir; maliklere e-Devlet'ten bildirim yapılır, binaya tutanak asılır ve muhtarlıkta 15 gün ilan edilir.",
+        "**İtiraz süresi.** Tespite 15 gün içinde itiraz edilebilir; itirazı teknik heyet karara bağlar.",
+        "**Karar toplantısı.** Malikler hisseleri oranında salt çoğunlukla yeniden yapım, müteahhit, proje ve paylaşım hakkında karar alır.",
+        "**Katılmayanlara bildirim.** Karar ve teklif, katılmayanlara noter aracılığıyla veya muhtarlıkta 15 gün ilanla bildirilir; 15 gün içinde kabul etmeyenlerin arsa payları açık artırmayla satışa çıkarılabilir.",
+        "**Müteahhit sözleşmesi.** Kat karşılığı inşaat sözleşmesi noterde düzenleme şeklinde yapılır.",
+        "**Tahliye ve yıkım.** Maliklere yıkım için en fazla 90 gün süre verilir; yıktırılmazsa yıkım idarece yaptırılır. Kira yardımı veya tahliye desteği bu aşamada gündeme gelir.",
+        "**Ruhsat ve güvence.** Müteahhit, yapı ruhsatı alınmadan önce bina tamamlama sigortası yaptırmak veya Başkanlıkça belirlenen diğer teminatı vermek zorundadır.",
+        "**Kat irtifakı ve destek başvurusu.** Ruhsattan sonra kat irtifakı kurulur. İstanbul'daki Yarısı Bizden hibe ve kredisi bu aşamadan sonra talep edilebilir.",
+        "**İnşaat, iskân ve kat mülkiyeti.** Destek ödemeleri inşaatın ilerlemesine göre müteahhide yapılır; iskân alınınca kat mülkiyetine geçilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Bina ayakta iken ortak alan ve yönetim konularında Kat Mülkiyeti Kanunu, dönüşüm kararlarında 6306 sayılı Kanun uygulanır.",
+        "Bu Kanun uyarınca yapılan idari işlemlere karşı tebliğden itibaren 30 gün içinde idare mahkemesinde dava açılabilir; süreler kısadır.",
+        "Müteahhit seçilmeden önce yeni projede kaç daire ve ne kadar alan çıkacağını, size kalacak bölümleri yazılı isteyin. Yeni proje mevcut alanın 1,5 katını aşarsa İstanbul'daki Yarısı Bizden desteğinden yararlanılamaz.",
+        "Her aşamada e-Devlet bildirimlerinizi ve muhtarlık ilanlarını takip edin; tebligat ilanın son günü yapılmış sayılır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.3, 5, 6, 8; 8189 s. Cumhurbaşkanı Kararı m.3.",
+     "pro": true,
+     "freeSections": 1,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "riskli-yapi-tespiti",
+     "title": "Riskli yapı tespiti",
+     "summary": "Ekonomik ömrünü tamamlamış ya da yıkılma veya ağır hasar riski taşıdığı teknik verilerle tespit edilen bina \"riskli yapı\"dır. Tespiti öncelikle malikler, masrafı kendilerine ait olmak üzere Kentsel Dönüşüm Başkanlığınca lisanslandırılmış kuruluşlara yaptırır; sonuca 15 gün içinde itiraz edilebilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Başvuru.** Herhangi bir malik veya kanuni temsilcisi lisanslı kuruluşa başvurabilir; tespit için tüm maliklerin onayı gerekmez. Başkanlık veya belediye de tespiti resen yapabilir ya da maliklerden süre vererek isteyebilir.",
+        "**Engellenirse.** Tespitin engellenmesi hâlinde mülki amirin izniyle kolluk eşliğinde kapalı alanlar açtırılarak tespit yapılabilir.",
+        "**Tapuya bildirim.** Riskli yapı, tespitten itibaren en geç 10 iş günü içinde tapunun beyanlar hanesine işlenmek üzere bildirilir; tutanak binaya asılır, maliklere e-Devlet'ten bildirilir ve muhtarlıkta 15 gün ilan edilir. İlanın son günü tebliğ edilmiş sayılır.",
+        "**İtiraz.** Maliklerce 15 gün içinde itiraz edilebilir; itirazları üniversite öğretim üyeleri ve Bakanlık/Başkanlık uzmanlarından oluşan teknik heyet karara bağlar."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "İtiraz süresi kısadır; muhtarlık ilanını ve e-Devlet bildirimlerinizi takip edin.",
+        "Riskli yapı kararı kesinleşince yıkım süreci ve dönüşüm kararları gündeme gelir (bkz. Salt çoğunluk kararı ve imzalamayanın payı).",
+        "Tespit ücreti tespiti yaptıran malike aittir; diğer maliklerle nasıl paylaşılacağını önceden konuşun."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.2, 3, 8/7.",
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "salt-cogunluk-karari-ve-imzalamayanin-payi",
+     "title": "Salt çoğunluk kararı ve imzalamayanın payı",
+     "summary": "Riskli yapılarda yeniden yapım, kat karşılığı sözleşme, payların satışı gibi kararlar, hisseleri oranında paydaşların salt çoğunluğuyla alınır. Karara katılmayanların arsa payları, Başkanlıkça tespit ettirilen rayiç değerin altında olmamak üzere açık artırmayla önce anlaşan paydaşlara satılır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Karar.** Paydaş olup olmadıklarına bakılmaksızın, hisseleri oranında salt çoğunluk yeterlidir. Karar tutanağı veya vekâletname/sözleşme örnekleri idareye sunulabilir. İzin, ruhsat ve tapu işlemleri de bu karara dayanılarak yürütülür.",
+        "**Katılmayanlara bildirim.** Karar ve anlaşma şartları, katılmayan maliklere noter aracılığıyla veya muhtarlıkta 15 gün ilanla bildirilir. Bildirimden itibaren 15 gün içinde teklif incelenmez veya kabul edilmezse paylar satışa çıkarılır.",
+        "**Payların satışı.** Rayiç değer Başkanlıkça tespit ettirilir; paylar bu değerden az olmamak üzere açık artırmayla anlaşan paydaşlara satılır. Satış gerçekleşmezse anlaşmayı kabul eden üçüncü kişilere satış yapılıncaya kadar işlem tekrarlanır.",
+        "**Paydaki ipotek ve hacizler.** Satılan paydaki ipotek, haciz gibi haklar satış bedeli üzerinde devam eder.",
+        "**Satış bedeline itiraz.** Satış, bedelin eksik hesaplandığı gerekçesiyle iptal edilirse fark, payı satın alan malik tarafından eski malike ödenir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Size teklif edilen yeni dairenin konumunu, büyüklüğünü ve şartlarını yazılı isteyin; 15 günlük süreyi kaçırmayın.",
+        "Satış sürecindeki tebligatlar e-Devlet ve muhtarlık ilanıyla yapılır; tapuya elektronik tebligat adresi bildirdiyseniz oraya gönderilir.",
+        "Karara katılmayan malikin payını üçüncü kişiye satması hâlinde, alıcı elektronik tebligat adresini tapuya bildirmek zorundadır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.6 (7471 s. K. ile değişik).",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "yarisi-bizden-hibe-kredi-ve-tahliye-destegi-istanbul",
+     "title": "Yarısı Bizden: hibe, kredi ve tahliye desteği (İstanbul)",
+     "summary": "İstanbul'da riskli yapısını yeniden yaptıran hak sahiplerine, konut başına 875.000 TL'ye kadar geri ödemesiz hibe, 875.000 TL'ye kadar kredi ve bağımsız bölüm başına 125.000 TL tahliye desteği verilebilir. Destek, parselde ruhsat alınıp kat irtifakı kurulduktan sonra talep edilir; hibe taahhütnamesi ve kredi sözleşmesi için son tarih Ekim 2026'daki uzatmayla 31.12.2027'dir.",
+     "sections": [
+      {
+       "heading": "Destek tutarları",
+       "table": {
+        "headers": [
+         "Destek",
+         "Konut",
+         "İşyeri"
+        ],
+        "rows": [
+         [
+          "Hibe (geri ödemesiz)",
+          "875.000 TL'ye kadar",
+          "437.500 TL'ye kadar"
+         ],
+         [
+          "Kredi",
+          "875.000 TL'ye kadar",
+          "437.500 TL'ye kadar"
+         ],
+         [
+          "Aynı hak sahibinin diğer her bir bölümü için kredi",
+          "1.750.000 TL'ye kadar",
+          "875.000 TL'ye kadar"
+         ],
+         [
+          "Tahliye ve taşınma desteği (bir kez, geri ödemesiz)",
+          "125.000 TL'ye kadar",
+          "125.000 TL'ye kadar"
+         ]
+        ]
+       }
+      },
+      {
+       "heading": "Kimler yararlanır",
+       "bullets": [
+        "İstanbul'da 6306 sayılı Kanun kapsamındaki riskli yapının, riskli alan veya rezerv yapı alanındaki yapının malikleri (hak sahipleri). Konut ve işyeri tespiti ilçe belediyesince yapılır.",
+        "Tahliye desteği; bağımsız bölümde oturan veya onu kullanan malike, kiracıya ya da sınırlı ayni hak sahibine verilir.",
+        "Kredi verilirken hak sahibinin geliri ve kredi notuna bakılmaz."
+       ]
+      },
+      {
+       "heading": "Kimler yararlanamaz",
+       "bullets": [
+        "Yeni projedeki bağımsız bölüm sayısı veya inşaat alanı, mevcut bağımsız bölüm sayısının veya inşaat alanının 1,5 katını aşıyorsa hibe ve kredi verilmez.",
+        "Parselde yeni yapı için 1 Nisan 2023'ten önce yapı ruhsatı düzenlenmişse destekten yararlanılamaz."
+       ]
+      },
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Ön koşul.** Riskli yapı tespiti, malik kararı ve müteahhit sözleşmesinden sonra yapı ruhsatı alınır ve kat irtifakı kurulur.",
+        "**Hak sahipliği.** İlçe belediyesine başvurulur; belediye mevcut yapıdaki konut ve işyerlerini tespit eder.",
+        "**Sözleşme.** Hak sahibi hibe taahhütnamesi ve kredi sözleşmesini Başkanlığın anlaştığı bankada imzalar. Başkanlık, kredi tutarının iki katı kadar ipotek alır.",
+        "**Ödeme.** Hibe ve kredi doğrudan hak sahibine değil, hak sahipleri adına müteahhidin bankada açılan hesabına üç eşit taksitle ödenir: subasman seviyesinde, taşıyıcı sistem bitince ve inşaat bitince.",
+        "**Geri ödeme.** Ruhsat tarihinden itibaren 24 ay hiç ödeme yapılmaz. Sonra ilk 12 taksit faizsizdir; kredi en fazla 120 ayda kapanır. Kalan borç her ocak ayında yıllık TÜFE değişiminin yarısı oranında güncellenir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Müteahhitle sözleşmede destek ödemelerinin müteahhide yapılacağını ve bunun inşaat bedelinden nasıl düşüleceğini açıkça yazın.",
+        "1,5 kat sınırını aşan projelerde destek tamamen kaybedilir; müteahhidin önerdiği ek kat ve dairelerin bu sınırı aşıp aşmadığını hesaplayın.",
+        "Payı satılan bir malikin payını satın alırsanız, onun kullanacağı hibe ve krediyi o taşınmaz için siz kullanabilirsiniz.",
+        "Tutarlar ve son tarih Cumhurbaşkanı kararlarıyla değişebilir; başvurmadan önce ilçe belediyesinden ve Kentsel Dönüşüm Başkanlığından güncel durumu teyit edin. Tutarlar, sözleşmenin imzalandığı tarihte yürürlükte olan karara göre uygulanır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.5/1; 8189 s. Cumhurbaşkanı Kararı (RG 23.02.2024/32469) m.2, 3; 9768 s. Cumhurbaşkanı Kararı (RG 01.05.2025) ile değişik tutarlar.",
+     "pro": true,
+     "freeSections": 1,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kira-yardimi-faiz-destekli-kredi-ve-guclendirme-kredisi",
+     "title": "Kira yardımı, faiz destekli kredi ve güçlendirme kredisi",
+     "summary": "Anlaşmayla tahliye edilen riskli yapının maliklerine, kiracılarına ve yapıda oturan sınırlı ayni hak sahiplerine kira yardımı veya geçici konut verilebilir. Hak sahiplerinin bankalardan kullanacağı dönüşüm kredilerine faiz desteği, güçlendirilebilecek yapılara da güçlendirme kredisi sağlanabilir.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Kira yardımı.** Tahliye anlaşmayla yapılmışsa malik, kiracı ve yapıda oturan sınırlı ayni hak sahibi yardım talep edebilir. Tutar ve süre Başkanlıkça il gruplarına göre belirlenir ve dönem dönem güncellenir; başvuru e-Devlet veya Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü üzerinden yapılır.",
+        "**Tahliye desteğiyle ilişkisi.** Bakanlık uygulamasında İstanbul'daki Yarısı Bizden tahliye desteği ile kira yardımı aynı bağımsız bölüm için birlikte verilmiyor; birini seçmeniz istenir. Başvurudan önce teyit edin ve hangisinin daha avantajlı olduğunu hesaplayın.",
+        "**Faiz destekli kredi.** Dönüşüm kapsamında yapılacak veya alınacak konut ve işyerleri için hak sahiplerinin bankalardan kullanacağı kredilere, faizin bir kısmı dönüşüm projeleri özel hesabından karşılanmak üzere faiz desteği verilebilir. Bu krediler konut finansmanı kredisi sayılır.",
+        "**Güçlendirme kredisi.** Riskli alan ve rezerv yapı alanı dışında olup teknik olarak güçlendirilebileceği tespit edilen yapılar için Başkanlıkça güçlendirme kredisi verilebilir.",
+        "**Kiracıya konut veya kredi.** Yapıda en az bir yıldır kiracı olarak oturduğu veya işyeri bulunduğu tespit edilenlere de konut, işyeri ya da kredi sağlanabilir."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Kira yardımı tahliyenin anlaşmayla yapılmasına bağlıdır; tahliye tutanağını ve kira sözleşmenizi saklayın.",
+        "Kira yardımı tutarları sık değişir; güncel tutarı başvuru sırasında İl Müdürlüğünden öğrenin.",
+        "Faiz destekli kredide bankanın kendi kredi değerlendirmesi uygulanır; Yarısı Bizden kredisinde ise gelir ve kredi notuna bakılmaz.",
+        "Müteahhidin vereceği kira yardımı devlet yardımından ayrıdır; sözleşmede ayrıca yazılmalıdır."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.5/1-2, 6/3, 6/8, 7/6.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "bina-tamamlama-sigortasi-ve-muteahhide-karsi-guvenceler",
+     "title": "Bina tamamlama sigortası ve müteahhide karşı güvenceler",
+     "summary": "Kentsel dönüşüm projelerinde müteahhit, yapı ruhsatı alınmadan önce bina tamamlama sigortası yaptırmak veya Kentsel Dönüşüm Başkanlığınca belirlenen diğer teminatı vermek zorundadır. Bu sigorta, müteahhidin iflası, ölümü veya binayı süresinde teslim edememesi hâlinde hak sahiplerinin zararını güvence altına alır.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Zorunluluk.** 7471 sayılı Kanunla yapılan değişiklikle, 6306 kapsamındaki projelerde sigorta veya Başkanlıkça kabul edilen diğer teminat yapı ruhsatından önce şarttır. Kapsamı ve uygulama esasları Hazine ve Maliye Bakanlığınca belirlenir.",
+        "**Sigorta ettiren ve lehtar.** Sigortayı müteahhit yaptırır ve primi öder; güvence arsa sahipleri (kat malikleri) lehinedir. Sigortacı her hak sahibi için bağımsız bölümüne göre teminat senedi düzenler.",
+        "**Teminat kapsamı.** Genel şartlara göre müteahhidin iflası, ölümü veya sözleşmede ya da mevzuatta öngörülen azami sürenin dolmasından itibaren 12 ay içinde binayı teslim edememesi rizikodur.",
+        "**Tazminat.** Sigortacı ya nakdi tazminat öder ya da binayı tamamlatıp teslim eder; ayni tazminatta tamamlanana kadar hak sahiplerine kira ödemesi de öngörülür.",
+        "**Haciz koruması.** Dönüşüm uygulamasında taşınmaz müteahhide devredilmişse, kat irtifakı kuruluncaya kadar müteahhidin üçüncü kişilere borçları için bu taşınmaza (malzeme ve işçilik alacakları hariç) haciz ve tedbir konulamaz. İşe başlandıktan itibaren 6 ay içinde kat irtifakı kurulmazsa bu koruma kalkar."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Ruhsattan önce poliçeyi veya teminat belgesini görün; size ait teminat senedinin bağımsız bölümünüzü doğru gösterdiğini kontrol edin.",
+        "Sözleşmeyi sizin feshetmeniz veya bankayla ödeme dışındaki ödemeler gibi bazı durumlar teminat dışında kalabilir; ödemeleri belgeli yapın.",
+        "Arsa payı devrini inşaat seviyesine göre kademelendirmek ek bir güvencedir.",
+        "Kat irtifakının işe başlandıktan sonra 6 ay içinde kurulmasını sözleşmeye yazdırın."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.6/10, 8/6 (7471 s. K. ile değişik); Bina Tamamlama Sigortası Genel Şartları.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "kentsel-donusumde-vergi-harc-ve-ucret-muafiyetleri",
+     "title": "Kentsel dönüşümde vergi, harç ve ücret muafiyetleri",
+     "summary": "6306 kapsamındaki dönüşüm işlemlerinde tapu harcı, noter harcı, belediye harç ve ücretleri, döner sermaye ücreti, damga vergisi ve kredilerde banka ve sigorta muameleleri vergisi alınmaz. Yeni binada mevcut inşaat alanının 1,5 katına kadar olan kısım için belediyeler harç ve ücret almaz.",
+     "sections": [
+      {
+       "heading": "Nasıl işler",
+       "steps": [
+        "**Kimleri kapsar.** Malikler, işi üstlenen müteahhit ve riskli yapıda en az bir yıldır kiracı veya sınırlı ayni hak sahibi olarak oturan ya da işyeri bulunanlar.",
+        "**Hangi işlemler.** Taşınmazın dönüşümden önceki ilk satışı, devri, tescili ve ipoteği; yeni yapının malik, müteahhit ve hak sahiplerine ilk satışı, devri, tescili ve ipoteği; riskli yapı nedeniyle başka yerde yeni yapı yapılması veya mevcut bir yapının alınması.",
+        "**Hangi vergi ve harçlar.** Noter harcı, tapu harcı, belediyelerce alınan ücret ve harçlar, veraset ve intikal vergisi, döner sermaye ücreti, bu işlemler için düzenlenen kâğıtların damga vergisi ve dönüşüm kredilerinde banka ve sigorta muameleleri vergisi.",
+        "**1,5 kat kuralı.** Riskli yapıların bulunduğu parsellerde, fonksiyon değişikliğine bakılmaksızın mevcut inşaat alanının 1,5 katına kadar olan yeni inşaat alanı için belediyeler harç ve ücret almaz."
+       ]
+      },
+      {
+       "heading": "Dikkat edilecekler",
+       "bullets": [
+        "Muafiyet yalnız dönüşümle ilgili işlemler içindir; dönüşüm sonrası ikinci satışta normal harç ödenir.",
+        "Tapuda ve noterde işlemin 6306 kapsamında olduğunu riskli yapı kaydıyla gösterin.",
+        "Dönüşüm sonrası satışta değer artış kazancı vergisi için edinme tarihinin nasıl belirleneceğini satıştan önce mali müşavirinize sorun."
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.7/9, 7/10.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    },
+    {
+     "id": "muteahhitle-anlasmadan-once-kontrol-listesi",
+     "title": "Müteahhitle anlaşmadan önce kontrol listesi",
+     "summary": "Kentsel dönüşümde hak sahibinin en büyük riski, eksik ve belirsiz bir müteahhit sözleşmesidir. İmzadan önce sizde kalacak bölümleri, teslim tarihini, gecikme tazminatını, kira yardımını, teminatları ve devlet desteklerinin nasıl kullanılacağını yazılı ve açık hâle getirin.",
+     "sections": [
+      {
+       "heading": "Kontrol listesi",
+       "checklist": [
+        "Riskli yapı tespiti tapuya işlendi mi, itiraz süresi doldu mu?",
+        "Karar hisseleri oranında salt çoğunlukla, tutanakla alındı mı?",
+        "Müteahhidin geçmiş işleri, yapı müteahhitliği yetki belgesi ve mali durumu araştırıldı mı?",
+        "Sözleşme noterde düzenleme şeklinde mi yapılıyor?",
+        "Size kalacak bağımsız bölümlerin numarası, katı, cephesi ve net/brüt alanı yazılı mı?",
+        "Yeni proje mevcut alanın 1,5 katını aşıyor mu (Yarısı Bizden ve harç muafiyeti için)?",
+        "Yıkım, ruhsat, inşaata başlama ve teslim tarihleri ile gecikme tazminatı belli mi?",
+        "Müteahhidin ödeyeceği kira yardımı, tutarı ve artış yöntemi yazılı mı?",
+        "Bina tamamlama sigortası veya diğer teminat ruhsattan önce sağlanacak mı?",
+        "Arsa payı devri inşaat seviyesine göre kademeli mi?",
+        "Yarısı Bizden hibe ve kredisinin müteahhide ödenmesi ve hesaplaşma şekli yazılı mı?",
+        "Teknik şartname (malzeme, ısı yalıtımı, asansör, otopark, sığınak) eklendi mi?",
+        "İskân, abonelikler ve kat mülkiyetine geçiş masraflarını kim üstleniyor?"
+       ]
+      }
+     ],
+     "updatedAt": "31.10.2026",
+     "basis": "6306 s. K. m.6, 7/10, 8/6; TBK m.470 vd.; Noterlik K. m.89; 8189 s. Cumhurbaşkanı Kararı.",
+     "pro": true,
+     "freeSentences": 2,
+     "sources": [
+      {
+       "title": "Mevzuat Bilgi Sistemi",
+       "url": "https://www.mevzuat.gov.tr"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "id": "insaat-donusum",
-   "title": "İnşaat ve kentsel dönüşüm",
-   "subtitle": "Kat karşılığı inşaat, riskli yapı ve iskân",
+   "title": "İnşaat ve iskân",
+   "subtitle": "Kat karşılığı inşaat, müteahhit ve iskân",
    "icon": "hammer",
    "topics": [
     {
@@ -877,73 +1217,6 @@
      ],
      "updatedAt": "31.10.2026",
      "basis": "TBK m.123, 125, 473, 474, 475.",
-     "pro": true,
-     "freeSentences": 2,
-     "sources": [
-      {
-       "title": "Mevzuat Bilgi Sistemi",
-       "url": "https://www.mevzuat.gov.tr"
-      }
-     ]
-    },
-    {
-     "id": "riskli-yapi-tespiti",
-     "title": "Riskli yapı tespiti",
-     "summary": "Ekonomik ömrünü tamamlamış ya da yıkılma veya ağır hasar riski taşıdığı teknik verilerle tespit edilen bina \"riskli yapı\"dır. Tespiti öncelikle malikler, masrafı kendilerine ait olmak üzere Kentsel Dönüşüm Başkanlığınca lisanslandırılmış kuruluşlara yaptırır; sonuca 15 gün içinde itiraz edilebilir.",
-     "sections": [
-      {
-       "heading": "Nasıl işler",
-       "steps": [
-        "**Başvuru.** Herhangi bir malik veya kanuni temsilcisi lisanslı kuruluşa başvurabilir; tespit için tüm maliklerin onayı gerekmez. Başkanlık veya belediye de tespiti resen yapabilir ya da maliklerden süre vererek isteyebilir.",
-        "**Engellenirse.** Tespitin engellenmesi hâlinde mülki amirin izniyle kolluk eşliğinde kapalı alanlar açtırılarak tespit yapılabilir.",
-        "**Tapuya bildirim.** Riskli yapı, tespitten itibaren en geç 10 iş günü içinde tapunun beyanlar hanesine işlenmek üzere bildirilir; tutanak binaya asılır, maliklere e-Devlet'ten bildirilir ve muhtarlıkta 15 gün ilan edilir. İlanın son günü tebliğ edilmiş sayılır.",
-        "**İtiraz.** Maliklerce 15 gün içinde itiraz edilebilir; itirazları üniversite öğretim üyeleri ve Bakanlık/Başkanlık uzmanlarından oluşan teknik heyet karara bağlar."
-       ]
-      },
-      {
-       "heading": "Dikkat edilecekler",
-       "bullets": [
-        "İtiraz süresi kısadır; muhtarlık ilanını ve e-Devlet bildirimlerinizi takip edin.",
-        "Riskli yapı kararı kesinleşince yıkım süreci ve dönüşüm kararları gündeme gelir (sonraki konu)."
-       ]
-      }
-     ],
-     "updatedAt": "31.10.2026",
-     "basis": "6306 s. K. m.2, 3.",
-     "sources": [
-      {
-       "title": "Mevzuat Bilgi Sistemi",
-       "url": "https://www.mevzuat.gov.tr"
-      }
-     ]
-    },
-    {
-     "id": "kentsel-donusumde-karar-imzalamayanin-payi-ve-kira-yardimi",
-     "title": "Kentsel dönüşümde karar, imzalamayanın payı ve kira yardımı",
-     "summary": "Riskli yapılarda yeniden yapım, kat karşılığı sözleşme, payların satışı gibi kararlar, hisseleri oranında paydaşların salt çoğunluğuyla alınır. Karara katılmayanların arsa payları, rayiç değerin altında olmamak üzere açık artırmayla anlaşan paydaşlara satılır.",
-     "sections": [
-      {
-       "heading": "Nasıl işler",
-       "steps": [
-        "**Yıkım süresi.** Riskli yapı maliklerine yıkım için en fazla 90 gün süre verilir; malikler yıktırmazsa yıkım idari makamlarca yaptırılır.",
-        "**Karar.** Paydaş olup olmadıklarına bakılmaksızın, hisseleri oranında salt çoğunluk yeterlidir. Karar tutanağı veya vekâletname/sözleşme örnekleri idareye sunulabilir.",
-        "**Katılmayanlara bildirim.** Karar ve anlaşma şartları, katılmayan maliklere noter aracılığıyla veya muhtarlıkta 15 gün ilanla bildirilir. Bildirimden itibaren 15 gün içinde teklif kabul edilmezse paylar satışa çıkarılır.",
-        "**Payların satışı.** Rayiç değer Başkanlıkça tespit ettirilir; paylar bu değerden az olmamak üzere açık artırmayla anlaşan paydaşlara, alıcı çıkmazsa anlaşmayı kabul eden üçüncü kişilere satılır.",
-        "**Kira yardımı.** Anlaşmayla tahliye edilen yapıların maliklerine, kiracılarına ve yapıda oturan sınırlı ayni hak sahiplerine geçici konut veya kira yardımı ve yapım için yardım yapılabilir; usul ve tutarlar Cumhurbaşkanınca belirlenir."
-       ]
-      },
-      {
-       "heading": "Dikkat edilecekler",
-       "bullets": [
-        "Bina yıkılmadan önce kat malikleri kurulu kuralları, yıkıldıktan sonra dönüşüm kuralları uygulanır.",
-        "Size teklif edilen yeni dairenin konumunu, büyüklüğünü ve şartlarını yazılı olarak isteyin; 15 günlük süreyi kaçırmayın.",
-        "Dönüşüm kapsamındaki işlemler için harç ve döner sermaye istisnaları vardır; tapuda sorun.",
-        "Kiracıysanız kira yardımı başvurusu için belediye veya Başkanlıkla iletişime geçin."
-       ]
-      }
-     ],
-     "updatedAt": "31.10.2026",
-     "basis": "6306 s. K. m.5, 6, 7 (7471 s. K. ile değişik).",
      "pro": true,
      "freeSentences": 2,
      "sources": [
@@ -1291,7 +1564,7 @@
   }
  ],
  "market": {
-  "asOf": "Eylül 2026",
+  "asOf": "31.10.2026",
   "note": "Göstergeler her ay TCMB ve TÜİK bültenlerinden güncellenir. Her kartta kaynak ve dönem yazar.",
   "indicators": [
    {
@@ -1299,7 +1572,7 @@
     "scope": "istanbul",
     "title": "Konut fiyat endeksi",
     "value": "%26,8",
-    "detail": "Yıllık artış · endeks 230,8 · aylık %2,0",
+    "detail": "Yıllık artış · endeks 230,9 · aylık %2,0",
     "period": "Eylül 2026",
     "source": "TCMB",
     "sourceUrl": "https://evds3.tcmb.gov.tr",
@@ -1310,7 +1583,7 @@
     "scope": "istanbul",
     "title": "Yeni kiracı kira endeksi",
     "value": "%3,5",
-    "detail": "Aylık artış (İstanbul) · yıllık %35,5",
+    "detail": "Aylık artış (İstanbul)",
     "period": "Eylül 2026",
     "source": "TCMB",
     "sourceUrl": "https://evds3.tcmb.gov.tr",
@@ -1343,7 +1616,7 @@
     "scope": "turkiye",
     "title": "Konut fiyat endeksi",
     "value": "%22,3",
-    "detail": "Yıllık artış · endeks 239,4 · aylık %1,2",
+    "detail": "Yıllık artış · endeks 239,4 (2023=100) · reel −%5,7",
     "period": "Eylül 2026",
     "source": "TCMB",
     "sourceUrl": "https://evds3.tcmb.gov.tr",
@@ -1394,2594 +1667,7 @@
     "free": true
    }
   ],
-  "series": [
-   {
-    "id": "kfe-ist",
-    "scope": "istanbul",
-    "title": "İstanbul konut fiyat endeksi",
-    "unit": "endeks",
-    "source": "TCMB",
-    "sourceUrl": "https://evds3.tcmb.gov.tr",
-    "code": "TP.KFE.TR10",
-    "points": [
-     {
-      "period": "2018-01",
-      "value": 11.74
-     },
-     {
-      "period": "2018-02",
-      "value": 11.76
-     },
-     {
-      "period": "2018-03",
-      "value": 11.79
-     },
-     {
-      "period": "2018-04",
-      "value": 11.79
-     },
-     {
-      "period": "2018-05",
-      "value": 12.01
-     },
-     {
-      "period": "2018-06",
-      "value": 12.06
-     },
-     {
-      "period": "2018-07",
-      "value": 11.92
-     },
-     {
-      "period": "2018-08",
-      "value": 11.87
-     },
-     {
-      "period": "2018-09",
-      "value": 11.93
-     },
-     {
-      "period": "2018-10",
-      "value": 12.18
-     },
-     {
-      "period": "2018-11",
-      "value": 12.18
-     },
-     {
-      "period": "2018-12",
-      "value": 11.85
-     },
-     {
-      "period": "2019-01",
-      "value": 11.79
-     },
-     {
-      "period": "2019-02",
-      "value": 11.74
-     },
-     {
-      "period": "2019-03",
-      "value": 11.56
-     },
-     {
-      "period": "2019-04",
-      "value": 11.7
-     },
-     {
-      "period": "2019-05",
-      "value": 11.81
-     },
-     {
-      "period": "2019-06",
-      "value": 11.55
-     },
-     {
-      "period": "2019-07",
-      "value": 11.76
-     },
-     {
-      "period": "2019-08",
-      "value": 11.79
-     },
-     {
-      "period": "2019-09",
-      "value": 11.98
-     },
-     {
-      "period": "2019-10",
-      "value": 12.14
-     },
-     {
-      "period": "2019-11",
-      "value": 12.32
-     },
-     {
-      "period": "2019-12",
-      "value": 12.43
-     },
-     {
-      "period": "2020-01",
-      "value": 12.69
-     },
-     {
-      "period": "2020-02",
-      "value": 12.98
-     },
-     {
-      "period": "2020-03",
-      "value": 13.21
-     },
-     {
-      "period": "2020-04",
-      "value": 13.23
-     },
-     {
-      "period": "2020-05",
-      "value": 13.39
-     },
-     {
-      "period": "2020-06",
-      "value": 14.05
-     },
-     {
-      "period": "2020-07",
-      "value": 14.59
-     },
-     {
-      "period": "2020-08",
-      "value": 14.89
-     },
-     {
-      "period": "2020-09",
-      "value": 15.07
-     },
-     {
-      "period": "2020-10",
-      "value": 15.45
-     },
-     {
-      "period": "2020-11",
-      "value": 15.84
-     },
-     {
-      "period": "2020-12",
-      "value": 15.89
-     },
-     {
-      "period": "2021-01",
-      "value": 16.15
-     },
-     {
-      "period": "2021-02",
-      "value": 16.69
-     },
-     {
-      "period": "2021-03",
-      "value": 16.94
-     },
-     {
-      "period": "2021-04",
-      "value": 17.27
-     },
-     {
-      "period": "2021-05",
-      "value": 17.48
-     },
-     {
-      "period": "2021-06",
-      "value": 17.96
-     },
-     {
-      "period": "2021-07",
-      "value": 18.59
-     },
-     {
-      "period": "2021-08",
-      "value": 18.97
-     },
-     {
-      "period": "2021-09",
-      "value": 19.95
-     },
-     {
-      "period": "2021-10",
-      "value": 21.1
-     },
-     {
-      "period": "2021-11",
-      "value": 23.04
-     },
-     {
-      "period": "2021-12",
-      "value": 26.74
-     },
-     {
-      "period": "2022-01",
-      "value": 30.84
-     },
-     {
-      "period": "2022-02",
-      "value": 33.41
-     },
-     {
-      "period": "2022-03",
-      "value": 36.97
-     },
-     {
-      "period": "2022-04",
-      "value": 41.71
-     },
-     {
-      "period": "2022-05",
-      "value": 47.55
-     },
-     {
-      "period": "2022-06",
-      "value": 53.57
-     },
-     {
-      "period": "2022-07",
-      "value": 57.13
-     },
-     {
-      "period": "2022-08",
-      "value": 60.25
-     },
-     {
-      "period": "2022-09",
-      "value": 64.0
-     },
-     {
-      "period": "2022-10",
-      "value": 66.23
-     },
-     {
-      "period": "2022-11",
-      "value": 67.96
-     },
-     {
-      "period": "2022-12",
-      "value": 70.87
-     },
-     {
-      "period": "2023-01",
-      "value": 77.45
-     },
-     {
-      "period": "2023-02",
-      "value": 81.89
-     },
-     {
-      "period": "2023-03",
-      "value": 88.17
-     },
-     {
-      "period": "2023-04",
-      "value": 89.9
-     },
-     {
-      "period": "2023-05",
-      "value": 93.76
-     },
-     {
-      "period": "2023-06",
-      "value": 95.83
-     },
-     {
-      "period": "2023-07",
-      "value": 102.85
-     },
-     {
-      "period": "2023-08",
-      "value": 108.24
-     },
-     {
-      "period": "2023-09",
-      "value": 112.98
-     },
-     {
-      "period": "2023-10",
-      "value": 116.29
-     },
-     {
-      "period": "2023-11",
-      "value": 115.16
-     },
-     {
-      "period": "2023-12",
-      "value": 117.48
-     },
-     {
-      "period": "2024-01",
-      "value": 118.07
-     },
-     {
-      "period": "2024-02",
-      "value": 122.22
-     },
-     {
-      "period": "2024-03",
-      "value": 123.26
-     },
-     {
-      "period": "2024-04",
-      "value": 122.87
-     },
-     {
-      "period": "2024-05",
-      "value": 127.96
-     },
-     {
-      "period": "2024-06",
-      "value": 130.58
-     },
-     {
-      "period": "2024-07",
-      "value": 130.43
-     },
-     {
-      "period": "2024-08",
-      "value": 137.79
-     },
-     {
-      "period": "2024-09",
-      "value": 139.42
-     },
-     {
-      "period": "2024-10",
-      "value": 141.15
-     },
-     {
-      "period": "2024-11",
-      "value": 145.4
-     },
-     {
-      "period": "2024-12",
-      "value": 148.57
-     },
-     {
-      "period": "2025-01",
-      "value": 153.01
-     },
-     {
-      "period": "2025-02",
-      "value": 157.12
-     },
-     {
-      "period": "2025-03",
-      "value": 160.77
-     },
-     {
-      "period": "2025-04",
-      "value": 165.17
-     },
-     {
-      "period": "2025-05",
-      "value": 169.52
-     },
-     {
-      "period": "2025-06",
-      "value": 173.13
-     },
-     {
-      "period": "2025-07",
-      "value": 174.17
-     },
-     {
-      "period": "2025-08",
-      "value": 179.45
-     },
-     {
-      "period": "2025-09",
-      "value": 182.07
-     },
-     {
-      "period": "2025-10",
-      "value": 186.87
-     },
-     {
-      "period": "2025-11",
-      "value": 191.32
-     },
-     {
-      "period": "2025-12",
-      "value": 190.92
-     },
-     {
-      "period": "2026-01",
-      "value": 196.7
-     },
-     {
-      "period": "2026-02",
-      "value": 200.95
-     },
-     {
-      "period": "2026-03",
-      "value": 205.1
-     },
-     {
-      "period": "2026-04",
-      "value": 208.32
-     },
-     {
-      "period": "2026-05",
-      "value": 212.47
-     },
-     {
-      "period": "2026-06",
-      "value": 216.62
-     },
-     {
-      "period": "2026-07",
-      "value": 222.4
-     },
-     {
-      "period": "2026-08",
-      "value": 226.36
-     },
-     {
-      "period": "2026-09",
-      "value": 230.85
-     }
-    ]
-   },
-   {
-    "id": "kfe-tr",
-    "scope": "turkiye",
-    "title": "Türkiye konut fiyat endeksi",
-    "unit": "endeks",
-    "source": "TCMB",
-    "sourceUrl": "https://evds3.tcmb.gov.tr",
-    "code": "TP.KFE.TR",
-    "points": [
-     {
-      "period": "2018-01",
-      "value": 10.68
-     },
-     {
-      "period": "2018-02",
-      "value": 10.75
-     },
-     {
-      "period": "2018-03",
-      "value": 10.86
-     },
-     {
-      "period": "2018-04",
-      "value": 10.93
-     },
-     {
-      "period": "2018-05",
-      "value": 11.13
-     },
-     {
-      "period": "2018-06",
-      "value": 11.27
-     },
-     {
-      "period": "2018-07",
-      "value": 11.19
-     },
-     {
-      "period": "2018-08",
-      "value": 11.14
-     },
-     {
-      "period": "2018-09",
-      "value": 11.2
-     },
-     {
-      "period": "2018-10",
-      "value": 11.3
-     },
-     {
-      "period": "2018-11",
-      "value": 11.32
-     },
-     {
-      "period": "2018-12",
-      "value": 11.19
-     },
-     {
-      "period": "2019-01",
-      "value": 11.18
-     },
-     {
-      "period": "2019-02",
-      "value": 11.19
-     },
-     {
-      "period": "2019-03",
-      "value": 11.24
-     },
-     {
-      "period": "2019-04",
-      "value": 11.31
-     },
-     {
-      "period": "2019-05",
-      "value": 11.46
-     },
-     {
-      "period": "2019-06",
-      "value": 11.4
-     },
-     {
-      "period": "2019-07",
-      "value": 11.47
-     },
-     {
-      "period": "2019-08",
-      "value": 11.78
-     },
-     {
-      "period": "2019-09",
-      "value": 11.88
-     },
-     {
-      "period": "2019-10",
-      "value": 12.01
-     },
-     {
-      "period": "2019-11",
-      "value": 12.14
-     },
-     {
-      "period": "2019-12",
-      "value": 12.29
-     },
-     {
-      "period": "2020-01",
-      "value": 12.61
-     },
-     {
-      "period": "2020-02",
-      "value": 12.89
-     },
-     {
-      "period": "2020-03",
-      "value": 13.13
-     },
-     {
-      "period": "2020-04",
-      "value": 13.15
-     },
-     {
-      "period": "2020-05",
-      "value": 13.4
-     },
-     {
-      "period": "2020-06",
-      "value": 14.32
-     },
-     {
-      "period": "2020-07",
-      "value": 14.85
-     },
-     {
-      "period": "2020-08",
-      "value": 15.06
-     },
-     {
-      "period": "2020-09",
-      "value": 15.23
-     },
-     {
-      "period": "2020-10",
-      "value": 15.57
-     },
-     {
-      "period": "2020-11",
-      "value": 16.06
-     },
-     {
-      "period": "2020-12",
-      "value": 16.23
-     },
-     {
-      "period": "2021-01",
-      "value": 16.49
-     },
-     {
-      "period": "2021-02",
-      "value": 16.98
-     },
-     {
-      "period": "2021-03",
-      "value": 17.32
-     },
-     {
-      "period": "2021-04",
-      "value": 17.86
-     },
-     {
-      "period": "2021-05",
-      "value": 18.27
-     },
-     {
-      "period": "2021-06",
-      "value": 18.76
-     },
-     {
-      "period": "2021-07",
-      "value": 19.41
-     },
-     {
-      "period": "2021-08",
-      "value": 19.99
-     },
-     {
-      "period": "2021-09",
-      "value": 20.77
-     },
-     {
-      "period": "2021-10",
-      "value": 21.65
-     },
-     {
-      "period": "2021-11",
-      "value": 23.22
-     },
-     {
-      "period": "2021-12",
-      "value": 26.54
-     },
-     {
-      "period": "2022-01",
-      "value": 29.95
-     },
-     {
-      "period": "2022-02",
-      "value": 32.3
-     },
-     {
-      "period": "2022-03",
-      "value": 35.39
-     },
-     {
-      "period": "2022-04",
-      "value": 39.44
-     },
-     {
-      "period": "2022-05",
-      "value": 44.56
-     },
-     {
-      "period": "2022-06",
-      "value": 49.53
-     },
-     {
-      "period": "2022-07",
-      "value": 53.04
-     },
-     {
-      "period": "2022-08",
-      "value": 56.26
-     },
-     {
-      "period": "2022-09",
-      "value": 59.48
-     },
-     {
-      "period": "2022-10",
-      "value": 62.09
-     },
-     {
-      "period": "2022-11",
-      "value": 64.2
-     },
-     {
-      "period": "2022-12",
-      "value": 66.85
-     },
-     {
-      "period": "2023-01",
-      "value": 73.88
-     },
-     {
-      "period": "2023-02",
-      "value": 78.4
-     },
-     {
-      "period": "2023-03",
-      "value": 84.68
-     },
-     {
-      "period": "2023-04",
-      "value": 87.55
-     },
-     {
-      "period": "2023-05",
-      "value": 91.12
-     },
-     {
-      "period": "2023-06",
-      "value": 95.66
-     },
-     {
-      "period": "2023-07",
-      "value": 101.87
-     },
-     {
-      "period": "2023-08",
-      "value": 108.97
-     },
-     {
-      "period": "2023-09",
-      "value": 116.18
-     },
-     {
-      "period": "2023-10",
-      "value": 119.18
-     },
-     {
-      "period": "2023-11",
-      "value": 120.07
-     },
-     {
-      "period": "2023-12",
-      "value": 122.43
-     },
-     {
-      "period": "2024-01",
-      "value": 125.71
-     },
-     {
-      "period": "2024-02",
-      "value": 129.87
-     },
-     {
-      "period": "2024-03",
-      "value": 131.49
-     },
-     {
-      "period": "2024-04",
-      "value": 132.7
-     },
-     {
-      "period": "2024-05",
-      "value": 137.9
-     },
-     {
-      "period": "2024-06",
-      "value": 140.03
-     },
-     {
-      "period": "2024-07",
-      "value": 141.33
-     },
-     {
-      "period": "2024-08",
-      "value": 146.5
-     },
-     {
-      "period": "2024-09",
-      "value": 148.01
-     },
-     {
-      "period": "2024-10",
-      "value": 151.08
-     },
-     {
-      "period": "2024-11",
-      "value": 155.38
-     },
-     {
-      "period": "2024-12",
-      "value": 158.46
-     },
-     {
-      "period": "2025-01",
-      "value": 165.88
-     },
-     {
-      "period": "2025-02",
-      "value": 170.55
-     },
-     {
-      "period": "2025-03",
-      "value": 173.88
-     },
-     {
-      "period": "2025-04",
-      "value": 176.41
-     },
-     {
-      "period": "2025-05",
-      "value": 182.33
-     },
-     {
-      "period": "2025-06",
-      "value": 185.96
-     },
-     {
-      "period": "2025-07",
-      "value": 187.78
-     },
-     {
-      "period": "2025-08",
-      "value": 192.44
-     },
-     {
-      "period": "2025-09",
-      "value": 195.66
-     },
-     {
-      "period": "2025-10",
-      "value": 198.87
-     },
-     {
-      "period": "2025-11",
-      "value": 204.04
-     },
-     {
-      "period": "2025-12",
-      "value": 204.36
-     },
-     {
-      "period": "2026-01",
-      "value": 211.73
-     },
-     {
-      "period": "2026-02",
-      "value": 215.4
-     },
-     {
-      "period": "2026-03",
-      "value": 219.52
-     },
-     {
-      "period": "2026-04",
-      "value": 223.32
-     },
-     {
-      "period": "2026-05",
-      "value": 226.99
-     },
-     {
-      "period": "2026-06",
-      "value": 231.34
-     },
-     {
-      "period": "2026-07",
-      "value": 234.55
-     },
-     {
-      "period": "2026-08",
-      "value": 236.5
-     },
-     {
-      "period": "2026-09",
-      "value": 239.38
-     }
-    ]
-   },
-   {
-    "id": "ykke-ist",
-    "scope": "istanbul",
-    "title": "İstanbul yeni kiracı kira endeksi",
-    "unit": "endeks",
-    "source": "TCMB",
-    "sourceUrl": "https://evds3.tcmb.gov.tr",
-    "code": "TP.YKKE.TR10",
-    "points": [
-     {
-      "period": "2018-01",
-      "value": 11.78
-     },
-     {
-      "period": "2018-02",
-      "value": 11.92
-     },
-     {
-      "period": "2018-03",
-      "value": 12.04
-     },
-     {
-      "period": "2018-04",
-      "value": 11.92
-     },
-     {
-      "period": "2018-05",
-      "value": 12.15
-     },
-     {
-      "period": "2018-06",
-      "value": 12.32
-     },
-     {
-      "period": "2018-07",
-      "value": 12.27
-     },
-     {
-      "period": "2018-08",
-      "value": 12.32
-     },
-     {
-      "period": "2018-09",
-      "value": 12.32
-     },
-     {
-      "period": "2018-10",
-      "value": 12.94
-     },
-     {
-      "period": "2018-11",
-      "value": 12.66
-     },
-     {
-      "period": "2018-12",
-      "value": 12.4
-     },
-     {
-      "period": "2019-01",
-      "value": 12.44
-     },
-     {
-      "period": "2019-02",
-      "value": 12.31
-     },
-     {
-      "period": "2019-03",
-      "value": 12.11
-     },
-     {
-      "period": "2019-04",
-      "value": 12.44
-     },
-     {
-      "period": "2019-05",
-      "value": 12.49
-     },
-     {
-      "period": "2019-06",
-      "value": 12.43
-     },
-     {
-      "period": "2019-07",
-      "value": 12.31
-     },
-     {
-      "period": "2019-08",
-      "value": 12.78
-     },
-     {
-      "period": "2019-09",
-      "value": 13.02
-     },
-     {
-      "period": "2019-10",
-      "value": 13.17
-     },
-     {
-      "period": "2019-11",
-      "value": 13.35
-     },
-     {
-      "period": "2019-12",
-      "value": 13.4
-     },
-     {
-      "period": "2020-01",
-      "value": 13.54
-     },
-     {
-      "period": "2020-02",
-      "value": 13.93
-     },
-     {
-      "period": "2020-03",
-      "value": 14.28
-     },
-     {
-      "period": "2020-04",
-      "value": 14.37
-     },
-     {
-      "period": "2020-05",
-      "value": 14.47
-     },
-     {
-      "period": "2020-06",
-      "value": 14.9
-     },
-     {
-      "period": "2020-07",
-      "value": 15.42
-     },
-     {
-      "period": "2020-08",
-      "value": 15.8
-     },
-     {
-      "period": "2020-09",
-      "value": 16.03
-     },
-     {
-      "period": "2020-10",
-      "value": 16.43
-     },
-     {
-      "period": "2020-11",
-      "value": 16.83
-     },
-     {
-      "period": "2020-12",
-      "value": 16.89
-     },
-     {
-      "period": "2021-01",
-      "value": 17.18
-     },
-     {
-      "period": "2021-02",
-      "value": 17.37
-     },
-     {
-      "period": "2021-03",
-      "value": 17.72
-     },
-     {
-      "period": "2021-04",
-      "value": 18.17
-     },
-     {
-      "period": "2021-05",
-      "value": 18.53
-     },
-     {
-      "period": "2021-06",
-      "value": 18.98
-     },
-     {
-      "period": "2021-07",
-      "value": 19.65
-     },
-     {
-      "period": "2021-08",
-      "value": 20.17
-     },
-     {
-      "period": "2021-09",
-      "value": 21.3
-     },
-     {
-      "period": "2021-10",
-      "value": 22.56
-     },
-     {
-      "period": "2021-11",
-      "value": 24.66
-     },
-     {
-      "period": "2021-12",
-      "value": 27.8
-     },
-     {
-      "period": "2022-01",
-      "value": 31.72
-     },
-     {
-      "period": "2022-02",
-      "value": 33.73
-     },
-     {
-      "period": "2022-03",
-      "value": 36.34
-     },
-     {
-      "period": "2022-04",
-      "value": 40.72
-     },
-     {
-      "period": "2022-05",
-      "value": 43.43
-     },
-     {
-      "period": "2022-06",
-      "value": 50.01
-     },
-     {
-      "period": "2022-07",
-      "value": 52.99
-     },
-     {
-      "period": "2022-08",
-      "value": 55.7
-     },
-     {
-      "period": "2022-09",
-      "value": 59.38
-     },
-     {
-      "period": "2022-10",
-      "value": 61.58
-     },
-     {
-      "period": "2022-11",
-      "value": 64.66
-     },
-     {
-      "period": "2022-12",
-      "value": 67.31
-     },
-     {
-      "period": "2023-01",
-      "value": 73.61
-     },
-     {
-      "period": "2023-02",
-      "value": 77.2
-     },
-     {
-      "period": "2023-03",
-      "value": 83.08
-     },
-     {
-      "period": "2023-04",
-      "value": 86.67
-     },
-     {
-      "period": "2023-05",
-      "value": 90.36
-     },
-     {
-      "period": "2023-06",
-      "value": 95.3
-     },
-     {
-      "period": "2023-07",
-      "value": 104.21
-     },
-     {
-      "period": "2023-08",
-      "value": 111.35
-     },
-     {
-      "period": "2023-09",
-      "value": 115.32
-     },
-     {
-      "period": "2023-10",
-      "value": 120.17
-     },
-     {
-      "period": "2023-11",
-      "value": 120.17
-     },
-     {
-      "period": "2023-12",
-      "value": 122.55
-     },
-     {
-      "period": "2024-01",
-      "value": 127.82
-     },
-     {
-      "period": "2024-02",
-      "value": 134.16
-     },
-     {
-      "period": "2024-03",
-      "value": 135.1
-     },
-     {
-      "period": "2024-04",
-      "value": 138.17
-     },
-     {
-      "period": "2024-05",
-      "value": 145.55
-     },
-     {
-      "period": "2024-06",
-      "value": 149.98
-     },
-     {
-      "period": "2024-07",
-      "value": 153.06
-     },
-     {
-      "period": "2024-08",
-      "value": 164.02
-     },
-     {
-      "period": "2024-09",
-      "value": 171.3
-     },
-     {
-      "period": "2024-10",
-      "value": 180.77
-     },
-     {
-      "period": "2024-11",
-      "value": 186.08
-     },
-     {
-      "period": "2024-12",
-      "value": 189.86
-     },
-     {
-      "period": "2025-01",
-      "value": 197.47
-     },
-     {
-      "period": "2025-02",
-      "value": 197.89
-     },
-     {
-      "period": "2025-03",
-      "value": 204.32
-     },
-     {
-      "period": "2025-04",
-      "value": 211.88
-     },
-     {
-      "period": "2025-05",
-      "value": 217.62
-     },
-     {
-      "period": "2025-06",
-      "value": 228.35
-     },
-     {
-      "period": "2025-07",
-      "value": 233.71
-     },
-     {
-      "period": "2025-08",
-      "value": 241.64
-     },
-     {
-      "period": "2025-09",
-      "value": 248.31
-     },
-     {
-      "period": "2025-10",
-      "value": 255.78
-     },
-     {
-      "period": "2025-11",
-      "value": 260.14
-     },
-     {
-      "period": "2025-12",
-      "value": 262.53
-     },
-     {
-      "period": "2026-01",
-      "value": 272.53
-     },
-     {
-      "period": "2026-02",
-      "value": 278.77
-     },
-     {
-      "period": "2026-03",
-      "value": 284.73
-     },
-     {
-      "period": "2026-04",
-      "value": 288.58
-     },
-     {
-      "period": "2026-05",
-      "value": 297.26
-     },
-     {
-      "period": "2026-06",
-      "value": 304.25
-     },
-     {
-      "period": "2026-07",
-      "value": 309.79
-     },
-     {
-      "period": "2026-08",
-      "value": 325.08
-     },
-     {
-      "period": "2026-09",
-      "value": 336.53
-     }
-    ]
-   },
-   {
-    "id": "ykke-tr",
-    "scope": "turkiye",
-    "title": "Türkiye yeni kiracı kira endeksi",
-    "unit": "endeks",
-    "source": "TCMB",
-    "sourceUrl": "https://evds3.tcmb.gov.tr",
-    "code": "TP.YKKE.TR",
-    "points": [
-     {
-      "period": "2018-01",
-      "value": 11.98
-     },
-     {
-      "period": "2018-02",
-      "value": 11.94
-     },
-     {
-      "period": "2018-03",
-      "value": 12.08
-     },
-     {
-      "period": "2018-04",
-      "value": 12.15
-     },
-     {
-      "period": "2018-05",
-      "value": 12.29
-     },
-     {
-      "period": "2018-06",
-      "value": 12.44
-     },
-     {
-      "period": "2018-07",
-      "value": 12.52
-     },
-     {
-      "period": "2018-08",
-      "value": 12.57
-     },
-     {
-      "period": "2018-09",
-      "value": 12.66
-     },
-     {
-      "period": "2018-10",
-      "value": 13.04
-     },
-     {
-      "period": "2018-11",
-      "value": 12.95
-     },
-     {
-      "period": "2018-12",
-      "value": 12.83
-     },
-     {
-      "period": "2019-01",
-      "value": 13.16
-     },
-     {
-      "period": "2019-02",
-      "value": 12.88
-     },
-     {
-      "period": "2019-03",
-      "value": 12.78
-     },
-     {
-      "period": "2019-04",
-      "value": 12.92
-     },
-     {
-      "period": "2019-05",
-      "value": 13.06
-     },
-     {
-      "period": "2019-06",
-      "value": 13.08
-     },
-     {
-      "period": "2019-07",
-      "value": 13.16
-     },
-     {
-      "period": "2019-08",
-      "value": 13.65
-     },
-     {
-      "period": "2019-09",
-      "value": 13.76
-     },
-     {
-      "period": "2019-10",
-      "value": 13.91
-     },
-     {
-      "period": "2019-11",
-      "value": 14.09
-     },
-     {
-      "period": "2019-12",
-      "value": 14.15
-     },
-     {
-      "period": "2020-01",
-      "value": 14.31
-     },
-     {
-      "period": "2020-02",
-      "value": 14.6
-     },
-     {
-      "period": "2020-03",
-      "value": 14.87
-     },
-     {
-      "period": "2020-04",
-      "value": 14.93
-     },
-     {
-      "period": "2020-05",
-      "value": 15.12
-     },
-     {
-      "period": "2020-06",
-      "value": 15.81
-     },
-     {
-      "period": "2020-07",
-      "value": 16.28
-     },
-     {
-      "period": "2020-08",
-      "value": 16.58
-     },
-     {
-      "period": "2020-09",
-      "value": 16.83
-     },
-     {
-      "period": "2020-10",
-      "value": 17.18
-     },
-     {
-      "period": "2020-11",
-      "value": 17.61
-     },
-     {
-      "period": "2020-12",
-      "value": 17.83
-     },
-     {
-      "period": "2021-01",
-      "value": 18.08
-     },
-     {
-      "period": "2021-02",
-      "value": 18.29
-     },
-     {
-      "period": "2021-03",
-      "value": 18.67
-     },
-     {
-      "period": "2021-04",
-      "value": 19.04
-     },
-     {
-      "period": "2021-05",
-      "value": 19.58
-     },
-     {
-      "period": "2021-06",
-      "value": 20.04
-     },
-     {
-      "period": "2021-07",
-      "value": 20.7
-     },
-     {
-      "period": "2021-08",
-      "value": 21.23
-     },
-     {
-      "period": "2021-09",
-      "value": 22.24
-     },
-     {
-      "period": "2021-10",
-      "value": 23.19
-     },
-     {
-      "period": "2021-11",
-      "value": 24.77
-     },
-     {
-      "period": "2021-12",
-      "value": 27.37
-     },
-     {
-      "period": "2022-01",
-      "value": 30.18
-     },
-     {
-      "period": "2022-02",
-      "value": 31.71
-     },
-     {
-      "period": "2022-03",
-      "value": 33.81
-     },
-     {
-      "period": "2022-04",
-      "value": 37.11
-     },
-     {
-      "period": "2022-05",
-      "value": 41.21
-     },
-     {
-      "period": "2022-06",
-      "value": 44.65
-     },
-     {
-      "period": "2022-07",
-      "value": 47.63
-     },
-     {
-      "period": "2022-08",
-      "value": 50.46
-     },
-     {
-      "period": "2022-09",
-      "value": 54.02
-     },
-     {
-      "period": "2022-10",
-      "value": 56.43
-     },
-     {
-      "period": "2022-11",
-      "value": 58.94
-     },
-     {
-      "period": "2022-12",
-      "value": 60.89
-     },
-     {
-      "period": "2023-01",
-      "value": 67.15
-     },
-     {
-      "period": "2023-02",
-      "value": 70.6
-     },
-     {
-      "period": "2023-03",
-      "value": 76.73
-     },
-     {
-      "period": "2023-04",
-      "value": 81.28
-     },
-     {
-      "period": "2023-05",
-      "value": 86.01
-     },
-     {
-      "period": "2023-06",
-      "value": 93.45
-     },
-     {
-      "period": "2023-07",
-      "value": 102.84
-     },
-     {
-      "period": "2023-08",
-      "value": 113.18
-     },
-     {
-      "period": "2023-09",
-      "value": 121.42
-     },
-     {
-      "period": "2023-10",
-      "value": 126.15
-     },
-     {
-      "period": "2023-11",
-      "value": 128.95
-     },
-     {
-      "period": "2023-12",
-      "value": 132.24
-     },
-     {
-      "period": "2024-01",
-      "value": 138.17
-     },
-     {
-      "period": "2024-02",
-      "value": 144.47
-     },
-     {
-      "period": "2024-03",
-      "value": 147.68
-     },
-     {
-      "period": "2024-04",
-      "value": 152.22
-     },
-     {
-      "period": "2024-05",
-      "value": 160.11
-     },
-     {
-      "period": "2024-06",
-      "value": 166.09
-     },
-     {
-      "period": "2024-07",
-      "value": 171.64
-     },
-     {
-      "period": "2024-08",
-      "value": 182.96
-     },
-     {
-      "period": "2024-09",
-      "value": 189.53
-     },
-     {
-      "period": "2024-10",
-      "value": 198.0
-     },
-     {
-      "period": "2024-11",
-      "value": 204.4
-     },
-     {
-      "period": "2024-12",
-      "value": 208.5
-     },
-     {
-      "period": "2025-01",
-      "value": 218.73
-     },
-     {
-      "period": "2025-02",
-      "value": 222.34
-     },
-     {
-      "period": "2025-03",
-      "value": 226.3
-     },
-     {
-      "period": "2025-04",
-      "value": 234.88
-     },
-     {
-      "period": "2025-05",
-      "value": 241.66
-     },
-     {
-      "period": "2025-06",
-      "value": 249.53
-     },
-     {
-      "period": "2025-07",
-      "value": 255.88
-     },
-     {
-      "period": "2025-08",
-      "value": 265.94
-     },
-     {
-      "period": "2025-09",
-      "value": 270.85
-     },
-     {
-      "period": "2025-10",
-      "value": 275.88
-     },
-     {
-      "period": "2025-11",
-      "value": 280.75
-     },
-     {
-      "period": "2025-12",
-      "value": 283.65
-     },
-     {
-      "period": "2026-01",
-      "value": 293.67
-     },
-     {
-      "period": "2026-02",
-      "value": 298.31
-     },
-     {
-      "period": "2026-03",
-      "value": 304.25
-     },
-     {
-      "period": "2026-04",
-      "value": 309.39
-     },
-     {
-      "period": "2026-05",
-      "value": 315.21
-     },
-     {
-      "period": "2026-06",
-      "value": 322.45
-     },
-     {
-      "period": "2026-07",
-      "value": 328.48
-     },
-     {
-      "period": "2026-08",
-      "value": 335.99
-     },
-     {
-      "period": "2026-09",
-      "value": 342.91
-     }
-    ]
-   },
-   {
-    "id": "satis-ist",
-    "scope": "istanbul",
-    "title": "İstanbul konut satışları",
-    "unit": "adet",
-    "source": "TÜİK (EVDS)",
-    "sourceUrl": "https://evds3.tcmb.gov.tr",
-    "code": "TP.AKONUTSAT1.KTR100",
-    "points": [
-     {
-      "period": "2018-01",
-      "value": 18638.0
-     },
-     {
-      "period": "2018-02",
-      "value": 18405.0
-     },
-     {
-      "period": "2018-03",
-      "value": 21048.0
-     },
-     {
-      "period": "2018-04",
-      "value": 19453.0
-     },
-     {
-      "period": "2018-05",
-      "value": 22591.0
-     },
-     {
-      "period": "2018-06",
-      "value": 23184.0
-     },
-     {
-      "period": "2018-07",
-      "value": 22185.0
-     },
-     {
-      "period": "2018-08",
-      "value": 17247.0
-     },
-     {
-      "period": "2018-09",
-      "value": 23287.0
-     },
-     {
-      "period": "2018-10",
-      "value": 31474.0
-     },
-     {
-      "period": "2018-11",
-      "value": 18147.0
-     },
-     {
-      "period": "2018-12",
-      "value": 30297.0
-     },
-     {
-      "period": "2019-01",
-      "value": 15386.0
-     },
-     {
-      "period": "2019-02",
-      "value": 16530.0
-     },
-     {
-      "period": "2019-03",
-      "value": 22069.0
-     },
-     {
-      "period": "2019-04",
-      "value": 19706.0
-     },
-     {
-      "period": "2019-05",
-      "value": 19376.0
-     },
-     {
-      "period": "2019-06",
-      "value": 11310.0
-     },
-     {
-      "period": "2019-07",
-      "value": 19265.0
-     },
-     {
-      "period": "2019-08",
-      "value": 17800.0
-     },
-     {
-      "period": "2019-09",
-      "value": 26118.0
-     },
-     {
-      "period": "2019-10",
-      "value": 27889.0
-     },
-     {
-      "period": "2019-11",
-      "value": 28428.0
-     },
-     {
-      "period": "2019-12",
-      "value": 44987.0
-     },
-     {
-      "period": "2020-01",
-      "value": 23918.0
-     },
-     {
-      "period": "2020-02",
-      "value": 25434.0
-     },
-     {
-      "period": "2020-03",
-      "value": 22365.0
-     },
-     {
-      "period": "2020-04",
-      "value": 7020.0
-     },
-     {
-      "period": "2020-05",
-      "value": 8597.0
-     },
-     {
-      "period": "2020-06",
-      "value": 32450.0
-     },
-     {
-      "period": "2020-07",
-      "value": 44407.0
-     },
-     {
-      "period": "2020-08",
-      "value": 33965.0
-     },
-     {
-      "period": "2020-09",
-      "value": 28372.0
-     },
-     {
-      "period": "2020-10",
-      "value": 24834.0
-     },
-     {
-      "period": "2020-11",
-      "value": 23917.0
-     },
-     {
-      "period": "2020-12",
-      "value": 23262.0
-     },
-     {
-      "period": "2021-01",
-      "value": 15130.0
-     },
-     {
-      "period": "2021-02",
-      "value": 17761.0
-     },
-     {
-      "period": "2021-03",
-      "value": 24660.0
-     },
-     {
-      "period": "2021-04",
-      "value": 21378.0
-     },
-     {
-      "period": "2021-05",
-      "value": 13070.0
-     },
-     {
-      "period": "2021-06",
-      "value": 29122.0
-     },
-     {
-      "period": "2021-07",
-      "value": 21334.0
-     },
-     {
-      "period": "2021-08",
-      "value": 27332.0
-     },
-     {
-      "period": "2021-09",
-      "value": 31743.0
-     },
-     {
-      "period": "2021-10",
-      "value": 29785.0
-     },
-     {
-      "period": "2021-11",
-      "value": 36347.0
-     },
-     {
-      "period": "2021-12",
-      "value": 44447.0
-     },
-     {
-      "period": "2022-01",
-      "value": 16969.0
-     },
-     {
-      "period": "2022-02",
-      "value": 20882.0
-     },
-     {
-      "period": "2022-03",
-      "value": 26959.0
-     },
-     {
-      "period": "2022-04",
-      "value": 29976.0
-     },
-     {
-      "period": "2022-05",
-      "value": 24859.0
-     },
-     {
-      "period": "2022-06",
-      "value": 31521.0
-     },
-     {
-      "period": "2022-07",
-      "value": 16024.0
-     },
-     {
-      "period": "2022-08",
-      "value": 20572.0
-     },
-     {
-      "period": "2022-09",
-      "value": 21240.0
-     },
-     {
-      "period": "2022-10",
-      "value": 19506.0
-     },
-     {
-      "period": "2022-11",
-      "value": 22553.0
-     },
-     {
-      "period": "2022-12",
-      "value": 41529.0
-     },
-     {
-      "period": "2023-01",
-      "value": 19393.0
-     },
-     {
-      "period": "2023-02",
-      "value": 16696.0
-     },
-     {
-      "period": "2023-03",
-      "value": 20166.0
-     },
-     {
-      "period": "2023-04",
-      "value": 15572.0
-     },
-     {
-      "period": "2023-05",
-      "value": 21176.0
-     },
-     {
-      "period": "2023-06",
-      "value": 15460.0
-     },
-     {
-      "period": "2023-07",
-      "value": 17736.0
-     },
-     {
-      "period": "2023-08",
-      "value": 19880.0
-     },
-     {
-      "period": "2023-09",
-      "value": 17267.0
-     },
-     {
-      "period": "2023-10",
-      "value": 16856.0
-     },
-     {
-      "period": "2023-11",
-      "value": 17017.0
-     },
-     {
-      "period": "2023-12",
-      "value": 26424.0
-     },
-     {
-      "period": "2024-01",
-      "value": 15002.0
-     },
-     {
-      "period": "2024-02",
-      "value": 18118.0
-     },
-     {
-      "period": "2024-03",
-      "value": 21046.0
-     },
-     {
-      "period": "2024-04",
-      "value": 13867.0
-     },
-     {
-      "period": "2024-05",
-      "value": 21326.0
-     },
-     {
-      "period": "2024-06",
-      "value": 14534.0
-     },
-     {
-      "period": "2024-07",
-      "value": 21107.0
-     },
-     {
-      "period": "2024-08",
-      "value": 21644.0
-     },
-     {
-      "period": "2024-09",
-      "value": 23677.0
-     },
-     {
-      "period": "2024-10",
-      "value": 27534.0
-     },
-     {
-      "period": "2024-11",
-      "value": 29270.0
-     },
-     {
-      "period": "2024-12",
-      "value": 39346.0
-     },
-     {
-      "period": "2025-01",
-      "value": 21013.0
-     },
-     {
-      "period": "2025-02",
-      "value": 21481.0
-     },
-     {
-      "period": "2025-03",
-      "value": 22118.0
-     },
-     {
-      "period": "2025-04",
-      "value": 20795.0
-     },
-     {
-      "period": "2025-05",
-      "value": 24593.0
-     },
-     {
-      "period": "2025-06",
-      "value": 19554.0
-     },
-     {
-      "period": "2025-07",
-      "value": 25685.0
-     },
-     {
-      "period": "2025-08",
-      "value": 24331.0
-     },
-     {
-      "period": "2025-09",
-      "value": 26715.0
-     },
-     {
-      "period": "2025-10",
-      "value": 29003.0
-     },
-     {
-      "period": "2025-11",
-      "value": 26773.0
-     },
-     {
-      "period": "2025-12",
-      "value": 48392.0
-     },
-     {
-      "period": "2026-01",
-      "value": 20412.0
-     },
-     {
-      "period": "2026-02",
-      "value": 23294.0
-     },
-     {
-      "period": "2026-03",
-      "value": 21665.0
-     },
-     {
-      "period": "2026-04",
-      "value": 23852.0
-     },
-     {
-      "period": "2026-05",
-      "value": 18197.0
-     },
-     {
-      "period": "2026-06",
-      "value": 24084.0
-     },
-     {
-      "period": "2026-07",
-      "value": 22594.0
-     },
-     {
-      "period": "2026-08",
-      "value": 20426.0
-     },
-     {
-      "period": "2026-09",
-      "value": 22212.0
-     }
-    ]
-   },
-   {
-    "id": "satis-tr",
-    "scope": "turkiye",
-    "title": "Türkiye konut satışları",
-    "unit": "adet",
-    "source": "TÜİK (EVDS)",
-    "sourceUrl": "https://evds3.tcmb.gov.tr",
-    "code": "TP.AKONUTSAT1.KTRTOPLAM",
-    "points": [
-     {
-      "period": "2018-01",
-      "value": 103160.0
-     },
-     {
-      "period": "2018-02",
-      "value": 101596.0
-     },
-     {
-      "period": "2018-03",
-      "value": 116770.0
-     },
-     {
-      "period": "2018-04",
-      "value": 109186.0
-     },
-     {
-      "period": "2018-05",
-      "value": 128963.0
-     },
-     {
-      "period": "2018-06",
-      "value": 126737.0
-     },
-     {
-      "period": "2018-07",
-      "value": 131346.0
-     },
-     {
-      "period": "2018-08",
-      "value": 111390.0
-     },
-     {
-      "period": "2018-09",
-      "value": 135772.0
-     },
-     {
-      "period": "2018-10",
-      "value": 160582.0
-     },
-     {
-      "period": "2018-11",
-      "value": 95953.0
-     },
-     {
-      "period": "2018-12",
-      "value": 146783.0
-     },
-     {
-      "period": "2019-01",
-      "value": 77161.0
-     },
-     {
-      "period": "2019-02",
-      "value": 83504.0
-     },
-     {
-      "period": "2019-03",
-      "value": 114693.0
-     },
-     {
-      "period": "2019-04",
-      "value": 103869.0
-     },
-     {
-      "period": "2019-05",
-      "value": 97424.0
-     },
-     {
-      "period": "2019-06",
-      "value": 64807.0
-     },
-     {
-      "period": "2019-07",
-      "value": 107730.0
-     },
-     {
-      "period": "2019-08",
-      "value": 116390.0
-     },
-     {
-      "period": "2019-09",
-      "value": 155387.0
-     },
-     {
-      "period": "2019-10",
-      "value": 154353.0
-     },
-     {
-      "period": "2019-11",
-      "value": 148187.0
-     },
-     {
-      "period": "2019-12",
-      "value": 215558.0
-     },
-     {
-      "period": "2020-01",
-      "value": 120066.0
-     },
-     {
-      "period": "2020-02",
-      "value": 125409.0
-     },
-     {
-      "period": "2020-03",
-      "value": 114796.0
-     },
-     {
-      "period": "2020-04",
-      "value": 45218.0
-     },
-     {
-      "period": "2020-05",
-      "value": 55205.0
-     },
-     {
-      "period": "2020-06",
-      "value": 204034.0
-     },
-     {
-      "period": "2020-07",
-      "value": 244133.0
-     },
-     {
-      "period": "2020-08",
-      "value": 181464.0
-     },
-     {
-      "period": "2020-09",
-      "value": 145448.0
-     },
-     {
-      "period": "2020-10",
-      "value": 127809.0
-     },
-     {
-      "period": "2020-11",
-      "value": 125196.0
-     },
-     {
-      "period": "2020-12",
-      "value": 119522.0
-     },
-     {
-      "period": "2021-01",
-      "value": 75603.0
-     },
-     {
-      "period": "2021-02",
-      "value": 88020.0
-     },
-     {
-      "period": "2021-03",
-      "value": 120415.0
-     },
-     {
-      "period": "2021-04",
-      "value": 102219.0
-     },
-     {
-      "period": "2021-05",
-      "value": 65497.0
-     },
-     {
-      "period": "2021-06",
-      "value": 145247.0
-     },
-     {
-      "period": "2021-07",
-      "value": 115264.0
-     },
-     {
-      "period": "2021-08",
-      "value": 151033.0
-     },
-     {
-      "period": "2021-09",
-      "value": 157819.0
-     },
-     {
-      "period": "2021-10",
-      "value": 152228.0
-     },
-     {
-      "period": "2021-11",
-      "value": 192820.0
-     },
-     {
-      "period": "2021-12",
-      "value": 243396.0
-     },
-     {
-      "period": "2022-01",
-      "value": 93118.0
-     },
-     {
-      "period": "2022-02",
-      "value": 103437.0
-     },
-     {
-      "period": "2022-03",
-      "value": 145698.0
-     },
-     {
-      "period": "2022-04",
-      "value": 150843.0
-     },
-     {
-      "period": "2022-05",
-      "value": 132420.0
-     },
-     {
-      "period": "2022-06",
-      "value": 161684.0
-     },
-     {
-      "period": "2022-07",
-      "value": 99646.0
-     },
-     {
-      "period": "2022-08",
-      "value": 131713.0
-     },
-     {
-      "period": "2022-09",
-      "value": 124030.0
-     },
-     {
-      "period": "2022-10",
-      "value": 127049.0
-     },
-     {
-      "period": "2022-11",
-      "value": 130513.0
-     },
-     {
-      "period": "2022-12",
-      "value": 225623.0
-     },
-     {
-      "period": "2023-01",
-      "value": 102927.0
-     },
-     {
-      "period": "2023-02",
-      "value": 84396.0
-     },
-     {
-      "period": "2023-03",
-      "value": 111322.0
-     },
-     {
-      "period": "2023-04",
-      "value": 92607.0
-     },
-     {
-      "period": "2023-05",
-      "value": 133287.0
-     },
-     {
-      "period": "2023-06",
-      "value": 90118.0
-     },
-     {
-      "period": "2023-07",
-      "value": 117058.0
-     },
-     {
-      "period": "2023-08",
-      "value": 132124.0
-     },
-     {
-      "period": "2023-09",
-      "value": 110810.0
-     },
-     {
-      "period": "2023-10",
-      "value": 106183.0
-     },
-     {
-      "period": "2023-11",
-      "value": 100579.0
-     },
-     {
-      "period": "2023-12",
-      "value": 148724.0
-     },
-     {
-      "period": "2024-01",
-      "value": 84801.0
-     },
-     {
-      "period": "2024-02",
-      "value": 99558.0
-     },
-     {
-      "period": "2024-03",
-      "value": 111345.0
-     },
-     {
-      "period": "2024-04",
-      "value": 80276.0
-     },
-     {
-      "period": "2024-05",
-      "value": 118926.0
-     },
-     {
-      "period": "2024-06",
-      "value": 82924.0
-     },
-     {
-      "period": "2024-07",
-      "value": 132426.0
-     },
-     {
-      "period": "2024-08",
-      "value": 139411.0
-     },
-     {
-      "period": "2024-09",
-      "value": 146557.0
-     },
-     {
-      "period": "2024-10",
-      "value": 171619.0
-     },
-     {
-      "period": "2024-11",
-      "value": 159805.0
-     },
-     {
-      "period": "2024-12",
-      "value": 222112.0
-     },
-     {
-      "period": "2025-01",
-      "value": 117025.0
-     },
-     {
-      "period": "2025-02",
-      "value": 117586.0
-     },
-     {
-      "period": "2025-03",
-      "value": 115788.0
-     },
-     {
-      "period": "2025-04",
-      "value": 123569.0
-     },
-     {
-      "period": "2025-05",
-      "value": 135664.0
-     },
-     {
-      "period": "2025-06",
-      "value": 112196.0
-     },
-     {
-      "period": "2025-07",
-      "value": 148939.0
-     },
-     {
-      "period": "2025-08",
-      "value": 149440.0
-     },
-     {
-      "period": "2025-09",
-      "value": 156918.0
-     },
-     {
-      "period": "2025-10",
-      "value": 170955.0
-     },
-     {
-      "period": "2025-11",
-      "value": 146989.0
-     },
-     {
-      "period": "2025-12",
-      "value": 265223.0
-     },
-     {
-      "period": "2026-01",
-      "value": 111480.0
-     },
-     {
-      "period": "2026-02",
-      "value": 124549.0
-     },
-     {
-      "period": "2026-03",
-      "value": 113367.0
-     },
-     {
-      "period": "2026-04",
-      "value": 126808.0
-     },
-     {
-      "period": "2026-05",
-      "value": 93333.0
-     },
-     {
-      "period": "2026-06",
-      "value": 129979.0
-     },
-     {
-      "period": "2026-07",
-      "value": 123603.0
-     },
-     {
-      "period": "2026-08",
-      "value": 127410.0
-     },
-     {
-      "period": "2026-09",
-      "value": 142390.0
-     }
-    ]
-   }
-  ]
+  "series": []
  },
  "params": {
   "year": 2026,
